@@ -1,4 +1,5 @@
 template: main.jinja
+navbar: !include header.yaml
 
 navlinks: !include header.yaml
 type: article 

@@ -17,7 +17,7 @@
     {% from "header.jinja" import header %}
     {% from "title.jinja" import title %}
 
-    {{ header(ANVIL_CURRENT_FILENAME, ANVIL_FILENAME_MAPPINGS, navlinks.title, navlinks.subtitle, navlinks.categories) }}
+    {{ header(ANVIL_CURRENT_FILENAME, ANVIL_FILENAME_MAPPINGS, navbar.title, navbar.subtitle, navbar.categories) }}
 
     {% if type == "photojournal" %}
         {% from "photojournal.jinja" import photojournal %}

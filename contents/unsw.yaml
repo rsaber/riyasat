@@ -1,6 +1,6 @@
 template: main.jinja
 
-navlinks: !include header.yaml
+navbar: !include header.yaml
 type: photojournal
 
 contents:
