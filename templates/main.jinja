@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{contents.title}}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/lens.css">
+
+  <link rel="icon" type="image/png" href="images/favicon.png"> 
+</head>
+
+<body>
+    {% from "header.jinja" import header %}
+    {% from "title.jinja" import title %}
+
+    {{ header(ANVIL_CURRENT_FILENAME, ANVIL_FILENAME_MAPPINGS, navlinks.title, navlinks.subtitle, navlinks.categories) }}
+
+    {% if type == "photojournal" %}
+        {% from "photojournal.jinja" import photojournal %}
+
+        {{ title(contents.title, contents.camera, contents.date, contents.description) }}
+        {{ photojournal(contents.entries)}}
+    {% elif type == "article" %}
+        {% from "article.jinja" import article %}
+
+        {{ title(contents.title, "", contents.date, contents.description) }}
+        {{ article(contents) }}
+    {% endif %}
+
+    <div class="container">
+        <p class="lens-journal-footer">
+            Generated using <a href="https://github.com/rsaber/anvil">Anvil</a> - a very hacky but stupid static site generator.
+            Get the source of this page <a href="https://github.com/rsaber/riyasat/blob/master/{{ANVIL_CURRENT_FILENAME}}">here</a>. 
+            <br>
+            Made with ♥ in either Sydney or London.
+        </p>
+    </div>
+</body>
+</html>
+

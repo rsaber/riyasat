@@ -1,0 +1,22 @@
+title: Riyasat
+subtitle: A series of my writings and photoessays.
+categories:
+    Stories: 
+        UNSW: contents/unsw.yaml
+        Leaving for London: contents/leavingforlondon.yaml
+        Quarantine: contents/placeholder.yaml
+        SaaP: contents/placeholder.yaml
+        Sydney in Lockdown: contents/placeholder.yaml
+    Travel:
+        Oxford: contents/placeholder.yaml
+        Cambridge: contents/placeholder.yaml
+    Projects:
+        Arrowthumb: contents/placeholder.yaml
+        Bloomberg Keyboard M: contents/placeholder.yaml
+    About:
+        Me: contents/placeholder.yaml
+        Resume: contents/placeholder.yaml
+        GitHub: contents/placeholder.yaml
+        LinkedIn: contents/placeholder.yaml
+        PGP: contents/pgp.yaml
+

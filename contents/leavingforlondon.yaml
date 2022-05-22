@@ -1,0 +1,16 @@
+template: main.jinja
+
+navlinks: !include header.yaml
+type: photojournal
+
+contents:
+    title: "Leaving for London"
+    camera: "Samsung S9+"
+    date: "August 2018"
+    description: "An opportunity I couldn't refuse. I had received a job offer from Bloomberg all the way in London. This photojournal details my first move overseas, and the biggest solo trip I had ever undertaken."
+    entries: 
+        CharingCrossStation:
+            type: image
+            link: "https://lens-img-alpha.netlify.app/leavingforlondon/001_CharingCrossStation.jpg"
+            caption: Charing Cross Station
+            subcaption: The most British photo I've ever taken.

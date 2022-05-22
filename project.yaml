@@ -1,0 +1,23 @@
+pages:
+  - contents/leavingforlondon.yaml
+
+pages-wip:
+  - contents/placeholder.yaml
+  - contents/unsw.yaml
+  - contents/quarantine.yaml
+  - contents/saap.yaml
+  - contents/oxford.yaml
+  - contents/cambridge.yaml
+  - contents/hamburg.yaml
+  - contents/amsterdam.yaml
+  - contents/zurich.yaml
+  - contents/madrid.yaml
+  - contents/westbaydorset.yaml
+  - contents/dc.yaml
+  - contents/perth.yaml
+  - contents/melbourne.yaml
+  - contents/aboutme.yaml
+
+copy:
+ - css
+ - fonts

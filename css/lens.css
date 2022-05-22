@@ -1,0 +1,123 @@
+@font-face {
+  font-family: GTAmericaRegular;
+  src: url(../fonts/GT-America-Regular.woff);
+}
+
+@font-face {
+  font-family: GTAmericaLight;
+  src: url(../fonts/GT-America-Light.woff);
+}
+
+@font-face {
+  font-family: GTAmericaBold;
+  src: url(../fonts/GT-America-Bold.woff);
+}
+
+@font-face {
+  font-family: GTAmericaExpandedBold;
+  src: url(../fonts/GT-America-Expanded-Bold.woff);
+}
+
+@font-face {
+  font-family: GTAmericaMedium;
+  src: url(../fonts/GT-America-Medium.woff);
+}
+
+.lens-website-title {
+	font-family: 'GTAmericaExpandedBold';
+	font-size: 22px;
+	margin-bottom: 0px;
+}
+
+.lens-website-subtitle {
+	font-family: 'GTAmericaRegular';
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.lens-journal-links {
+	font-family: 'GTAmericaRegular';
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+.lens-journal-links a {
+	color: black;
+	text-decoration: none;
+}
+
+.lens-journal-links a:hover {
+	color: blue;
+}
+
+.lens-journal-links .lens-journal-links-selected {
+	font-family: "GTAmericaMedium";
+	text-decoration: underline;
+}
+
+.lens-journal-title{
+	font-family: 'GTAmericaMedium';
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+.lens-journal-camera-type {
+	font-family: 'GTAmericaRegular';
+	font-size: 10px;
+	margin-bottom: 0px;
+}
+
+.lens-journal-date {
+	font-family: 'GTAmericaRegular';
+	font-size: 10px;
+	margin-bottom: 0px;
+}
+
+.lens-journal-description {
+	margin-top: 10px;
+	font-family: 'GTAmericaRegular';
+	font-size: 16px;
+}
+
+.lens-journal-full-width {
+	width: 100%;
+}
+
+.lens-journal-image-caption{
+	font-family: 'GTAmericaMedium';
+	font-size: 14px;
+	margin-top: 2%;
+	margin-bottom: 0px;
+}
+
+.lens-journal-image-subcaption{
+	font-family: 'GTAmericaRegular';
+	font-size: 12px;
+	margin-bottom: 10%;
+}
+
+.lens-journal-text-title, h1{
+	font-family: 'GTAmericaMedium';
+	font-size: 16px;
+	margin-top: 16px;
+}
+
+.lens-journal-text-entry, p{
+	font-family: 'GTAmericaRegular';
+	font-size: 14px;
+	margin-bottom: 14px;
+}
+
+.lens-journal-link-category{
+	font-family: 'GTAmericaMedium';
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+.lens-journal-footer{
+	font-family: 'GTAmericaRegular';
+	font-size: 10px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+}

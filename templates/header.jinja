@@ -1,0 +1,34 @@
+{% macro header(ANVIL_CURRENT_INPUT_FILENAME, ANVIL_FILENAME_MAPPINGS, title, subtitle, categories) %}
+<div class="container">
+    <div class="row">
+        <div class="twelve column" style="margin-top: 5%">
+            <h1 class="lens-website-title">{{title}}</h1>
+            <h3 class="lens-website-subtitle">{{subtitle}}</h3>
+        </div>
+    </div>
+    {% for series_name, links in categories.items() %}
+    <div class="row">
+        <div class="one column">
+                <p class="lens-journal-link-category">{{series_name}}</p>
+        </div>
+        <div class="nine columns">
+                <p class="lens-journal-links">
+                    {% for label, link in links.items() %}
+                        {% if ANVIL_CURRENT_INPUT_FILENAME == link %}
+                            <a class="lens-journal-links-selected">{{ label }}</a>
+                        {% else %}
+                            <a href="{{ ANVIL_FILENAME_MAPPINGS.get(link) }}">{{ label }}</a> 
+                        {% endif %}
+
+                        {% if not loop.last %}
+                        ·
+                        {% endif %}
+                    {% endfor %}
+                </p>
+        </div>
+    </div>
+    {% endfor %}
+    </div>
+   <hr>
+</div>
+{% endmacro %}

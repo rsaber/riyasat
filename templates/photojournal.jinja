@@ -1,0 +1,12 @@
+{% from "image.jinja" import image %}
+{% from "text.jinja" import text %}
+
+{% macro photojournal(entries) %}
+{% for key, entry in entries.items() %}
+    {% if entry.type == "image" %}
+        {{ image(entry.link, entry.caption, entry.subcaption) }}
+    {% elif entry.type == "text" %}
+        {{ text(entry.title, entry.contents) }}
+    {% endif %}
+{% endfor %}
+{% endmacro %}
