@@ -1,0 +1,144 @@
+template: main.jinja
+
+navlinks: !include header.yaml
+type: photojournal
+
+contents:
+  title: UNSW
+  camera: Samsung S9+
+  date: July 2018
+  description: My journey through university, from the choosing what to study, to choosing what to eat, join me on this photo-journey as I take you through three years of my university life. 
+  entries:
+    01_UNSW.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/01_UNSW.jpg
+      caption: Upper Campus of UNSW
+      subcaption: A bit of a trek uphill from the Central to UNSW bus stop, and to be
+        honest, I don't really remember having many reasons to come all the way up here.
+    02_GlenfieldStation.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/02_GlenfieldStation.jpg
+      caption: Glenfield Station
+      subcaption: Living in suburban Sydney affords me many luxuries, one of them not
+        being a quick commute. Here I climb aboard a train for my daily hour-long commute
+        to the city, getting off at Central station.
+    03_TrainMorning.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/03_TrainMorning.jpg
+      caption: Sydney Trains M Set
+      subcaption: The cream of the crop when it comes to Sydney Train's fleet of locomotives.
+        Seats are movable, and there are two levels as well as a vestibule. However, you
+        aren't always that lucky to get one of these air conditioned bad boys. Sometimes,
+        you get stuck with a 1980's era tin-can, complete with no ventilation in 40 degree
+        heat.
+    04_UniversityMall.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/04_UniversityMall.jpg
+      caption: University Mall
+      subcaption: The main pathway to *almost* all of UNSW, from Anzac Parade to about
+        halfway across campus. On the left is Red Centre, which houses both the Math faculty,
+        as well as Built Environment. On the right is Webster, which houses the Arts faculty.
+    05_Ainsworth.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/05_Ainsworth.jpg
+      caption: Ainsworth Building
+      subcaption: The mechanical engineering building, 5 floors tall, with a cafe on the
+        ground floor, as well as a few lecture halls. Level 3 of this building however
+        is filled with Computer Science labs, and is unaccessable for mechanical engineering
+        students.
+    06_CoffeeOnCampus.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/06_CoffeeOnCampus.jpg
+      caption: Coffee on Campus
+      subcaption: Located on the bottom floor of the Mechanical/Computer Science building,
+        Coffee on Campus is the go-to destination for students looking for a quick hit
+        of caffeine, before heading back upstairs to hit the books.
+    07_K17.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/07_K17.jpg
+      caption: K17 - The Computer Science Building
+      subcaption: The actual computer science building, where all the CSE faculty and
+        academics do their hard work in. There aren't too many computer science labs here,
+        and its a little old, but still gets the job done. Inside you can find the amazing
+        CSE student office, working tirelessly to answer many student queries, usually
+        about things you can find online anyway, but massive props to them.
+    09_AinsLv3.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/09_AinsLv3.jpg
+      caption: Level 3 of Ainsworth
+      subcaption: The only floor of the Mechanical building that was filled with Computer
+        Science labs, here is where I spent most of my university contact hours.
+    10_CSELab.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/10_CSELab.jpg
+      caption: Sitar and Kora
+      subcaption: A big part of my university life was tutoring *a lot* of computing courses.
+        Most of my memories of uni are in these computer labs, helping students out with
+        segmentation faults, misspelt variable names and memory leaks. And of course,
+        having plenty of fun.
+    12_Chi.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/12_Chi.jpg
+      caption: Chi
+      subcaption: 'Being a tutor gave me exclusive access to the ''Chi'' lab, a lab packed
+        to the brim with iMac 21''s. Usually used for UI/UX courses that only run in semester
+        2, during semester 1 it''s always got the ragtag team of undergrad tutors. '
+    13_Globe.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/13_Globe.jpg
+      caption: Globe Lawn
+      subcaption: Never really did much here, other than walk through it, but it's defintely
+        a nice site. ENGSOC usually do their 'exclusive-to-engineering-students' weekly
+        barbeque here, one that I wasn't invited to because I *technically* studied a
+        science degree.
+    13_Quad.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/13_Quad.jpg
+      caption: Quadrangle
+      subcaption: One of the weirdest parts of UNSW, mainly because there's really no
+        pattern as to how the classrooms are arranged, and their corresponding numbers.
+        But, at least there's a cool sundial thing. Never used it though to check the
+        time, but nevertheless, very cool.
+    15_Law.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/15_Law.jpg
+      caption: Law Building
+      subcaption: Never really had any classes here, but they have nice toilets, and the
+        law students get upset when non-law students use their libraries to study.
+    16_RedCentre.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/16_RedCentre.jpg
+      caption: Red Centre
+      subcaption: Although my degree was in Computer Science, I still did a couple of
+        math courses here and there, for both core and electives, and they were all done
+        here. It certainly isn't the nicest building on campus, but how much fancy tech
+        gizmos do you really need to teach math?
+    17_Asian.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/17_Asian.jpg
+      caption: Asian Fusion
+      subcaption: One of the few restaurants in Quad, they serve primarily asian food
+        (not really fused with anything else). It always got a weekly purchase from me.
+    18_MaxBrenner.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/18_MaxBrenner.jpg
+      caption: Max Brenner & Guzman
+      subcaption: Actual franchises of major restuarant chains are also on campus. Although
+        I've only been to Max Brenner once (for this photo actually, you can see some
+        of my mates sitting down), Guzman is definitely on the top of the list of what
+        restuarants I frequented the most.
+    14_Chemist.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/14_Chemist.jpg
+      caption: Chemist at Quad
+      subcaption: My go-to destination for cheap drinks, and my drink of choice? Coconut
+        water. I have no idea how, but the prices on soft / niche Japanese drinks is so
+        insanely low, I really don't know how they stay in business. They also sell medicine.
+    40_GrandConcourse.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/unsw/40_GrandConcourse.jpg
+      caption: Grand Concourse at Central Station
+      subcaption: End of the day, ready for the hour long journey back home. This here
+        is the Grand Concourse, one of many different entrances to Central, but definitely
+        the most beautiful.
+
