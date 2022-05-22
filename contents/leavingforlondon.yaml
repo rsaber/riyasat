@@ -10,7 +10,380 @@ contents:
     description: "An opportunity I couldn't refuse. I had received a job offer from Bloomberg all the way in London. This photojournal details my first move overseas, and the biggest solo trip I had ever undertaken."
     entries: 
         CharingCrossStation:
-            type: image
-            link: "https://lens-img-alpha.netlify.app/leavingforlondon/001_CharingCrossStation.jpg"
-            caption: Charing Cross Station
-            subcaption: The most British photo I've ever taken.
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/001_CharingCrossStation.jpg
+          caption: Charing Cross Station
+          subcaption: The most British photo I've ever taken.
+        002_Qantas.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/002_Qantas.jpg
+          caption: Qantas Check In
+          subcaption: The first stop on my move to London, and the last stop in Sydney.
+        003_QantasLounge.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/003_QantasLounge.jpg
+          caption: Qantas Lounge
+          subcaption: Flying business class gave me some pre-flight perks, such as access
+            to the business class lounge, packed with refreshments, snacks and a delicious
+            assortment of pastries.
+        004_JapanStopover.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/004_JapanStopover.jpg
+          caption: Stopover in Tokyo
+          subcaption: After a comforting 9 hour flight, I had a 3.5 hour stopover in Japan,
+            land of rear-cleansing toilets and delicious fish. Everyone bows there, a lot.
+            Also, they spoke to me in Japanese first, and then upon seeing the complexion
+            of my skin, revert to English.
+        005_Sakura.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/005_Sakura.jpg
+          caption: Sakura Lounge
+          subcaption: As I flew business class, I got access to the Sakura Lounge. Plenty
+            of food, drinks, a hot shower and noise dampening toilets.
+        006_CityApartment.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/006_CityApartment.jpg
+          caption: City Apartment
+          subcaption: As I was a new-hire from out of country, work set me up in a furnished
+            apartment for a month. It was a short walking distance away from work, and came
+            with a small welcome basket, a third of which was alcohol.
+        007_Paternoster.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/007_Paternoster.jpg
+          caption: Paternoster Square
+          subcaption: A plaza close by to St. Paul's Cathedral, where I walked through to
+            get to work. Theres a cool monument, table tennis, and plenty of small stores
+            and cafes scattered about.
+        008_StPaul.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/008_StPaul.jpg
+          caption: St. Paul's Cathedral
+          subcaption: The absolute unit of cathedrals, St. Paul's Cathedral is a magnificent
+            piece of architecture, and pictures can't describe the feeling of awe you get
+            when you look up at it. Although they have a "pay-to-pray" policy, and taking
+            photos of the inside is a big no-no.
+        009_StPaulGarden.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/009_StPaulGarden.jpg
+          caption: St Paul's Garden
+          subcaption: A beautiful garden surrounding St. Paul's Cathedral.
+        010_Sculpture.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/010_Sculpture.jpg
+          caption: Sculpture in Paternoster Square
+          subcaption: ''
+        011_MuseumOfLondon.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/011_MuseumOfLondon.jpg
+          caption: Musuem of London
+          subcaption: The street I walked down to get to St. Paul's Cathedral also houses
+            the London Musuem (out of frame).
+        012_QuaintStreet.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/012_QuaintStreet.jpg
+          caption: Middle Way
+          subcaption: The street right next door to my apartment, just wide enough to fit
+            a bicycle or two.
+        013_Anytime.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/013_Anytime.jpg
+          caption: Anytime Fitness - St. Paul's
+          subcaption: My Aussie gym membership at Anytime Fitness works here in the UK, and
+            this is the closest branch to my work. Definitely has a different vibe to it,
+            compared to the large warehouses I was used to back in suburban Sydney.
+        014_TelephoneWIFI.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/014_TelephoneWIFI.jpg
+          caption: Telephone Box
+          subcaption: There aren't just red telephone boxes scattered around the city, some
+            are black too. These black ones have WiFi as well, although I've never tried them.
+            Also, I wouldn't want to press that telephone against my ear either. Not exactly
+            that clean.
+        015_Bicycle.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/015_Bicycle.jpg
+          caption: Boris Bikes
+          subcaption: Londoners are especially fond of bicycles, and there are tonnes of these
+            bicycle share docking stations scattered across the city. Odd that the most London
+            thing is sponsored by a Spanish bank and named after Boris Johnson.
+        016_ChurchRuins.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/016_ChurchRuins.jpg
+          caption: Church Ruins
+          subcaption: Everywhere in the city, you can find new buildings with remnants of
+            the previously demolished building in its courtyard. London tends to want to remember
+            it's history.
+        017_MuseumOfLondon.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/017_MuseumOfLondon.jpg
+          caption: Museum of London
+          subcaption: Climb up some stairs and you are greeted with a serene walled garden.
+        018_StrandPalaceHotel.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/018_StrandPalaceHotel.jpg
+          caption: Strand Palace Hotel
+          subcaption: Incredibly difficult to get a photo without an iconic red double decker
+            bus getting in the way.
+        019_Court.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/019_Court.jpg
+          caption: Royal Courts of Justice
+          subcaption: Initially I thought this was another church, but this is in fact, a
+            court house. Didn't get the chance to go inside, but there are people at the entrance
+            protesting various policies, usually human rights related.
+        020_CourtsOfJustice.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/020_CourtsOfJustice.jpg
+          caption: ''
+          subcaption: ''
+        021_Marlborough.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/021_Marlborough.jpg
+          caption: Marlborough House
+          subcaption: Unrelated to the ciggy brand, Marlborough House has everything to do
+            with every country in the Commonwealth (including my homeland, Australia). Not
+            open to the general public, this was the only photo I could snap.
+        022_BuckinghamPath.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/022_BuckinghamPath.jpg
+          caption: Path to Buckingham
+          subcaption: Although there are multiple ways to get to Buckingham Palace, the only
+            way to get there by vehicle is through here. There are usually mounted police
+            patrolling in this area, as well as the occaisional ceremonious change of the
+            guard for the neighbouring buildings closeby. Just imagine well trained British
+            soldiers, dressed in funny costumes walking in sync.
+        023_BuckinghamGarden.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/023_BuckinghamGarden.jpg
+          caption: Gardens at Buckingham Palace
+          subcaption: Infront of Buckingham Palace are wide arrays of well-maintained gardens.
+            Honestly speaking, everything there felt so vibrant, the grass so green, the flowers
+            so vivid, it's like someone maxed out the saturation post-production.
+        024_BuckinghamPalace.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/024_BuckinghamPalace.jpg
+          caption: Buckingham Palace
+          subcaption: The main attraction, it was incredibly difficult to get a good photo.
+            The area was packed with tourists, and it was hard to even cross the road. Police
+            patrolled the empty roads, whilst tourists looked on from the footpaths, sitting
+            on the massive stone fences. I was also scared of someone snatching my phone out
+            of my hand, so I didn't take the best photos I could have.
+        025_BuckinghamCanada.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/025_BuckinghamCanada.jpg
+          caption: Green Park
+          subcaption: Right of Buckingham Palace is this vast grassy field, with perfectly
+            aligned trees creating a sort of path. Not as packed with tourists, there was
+            one small stall that sold icecream and coffee, at the usual overpriced tourist
+            prices you would expect.
+        026_MarbleArch.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/026_MarbleArch.jpg
+          caption: Marble Arch
+          subcaption: A 19th century marble arch designed to be the entrance to Buckingham
+            Palace, but was relocated to a largely isolated traffic island. It also gives
+            it's name to the surrounding area, Marble Arch Station.
+        027_TeddyBear.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/027_TeddyBear.jpg
+          caption: Teddy Bear
+          subcaption: An art display for Burberry's Spring/Summer runway show, temporarily
+            displayed next to the stone white Marble Arch.
+        028_GreekBoi.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/028_GreekBoi.jpg
+          caption: Sculpture in Hyde Park
+          subcaption: In addition to its vast grassy fields (perfect for picnics) and bicycle
+            friendly lanes, Hyde Park is scattered with a number of sculptures commemorating
+            special gifts or events.
+        029_HydeParkSculpture.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/029_HydeParkSculpture.jpg
+          caption: ''
+          subcaption: ''
+        030_AnotherArch.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/030_AnotherArch.jpg
+          caption: Arch in Hyde Park
+          subcaption: ''
+        031_BoroughMarkets.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/031_BoroughMarkets.jpg
+          caption: Borough Markets
+          subcaption: Near London Bridge and The Shard, is Borough Markets, one of the oldest
+            markets operating in the UK (some dating back to the 12th century). The present
+            buildings however are a little newer, built around 1850's. There are plenty of
+            stalls selling specialty goods, and you're sure to find something delicious.
+        032_NationalGallery.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/032_NationalGallery.jpg
+          caption: National Gallery
+          subcaption: How could I say no to free entry? Most of the oil paintings in the gallery
+            were Biblical related, didn't expect anything less from UK, land of Churches on
+            every block.
+        033_ScalpelAndChurch.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/033_ScalpelAndChurch.jpg
+          caption: St. Andrew Undershaft and the Scalpel
+          subcaption: One neat thing about London, that I haven't seen in other cities is
+            the contrast between old and new. There are plenty of brand new, glass covered
+            skyscrapers next to centuries old stone cathedrals. And if anything old was torn
+            down, there's always a small memorial detailing its fate. London really cares
+            about its history.
+        034_Gherkin.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/034_Gherkin.jpg
+          caption: The Gherkin
+          subcaption: London also has this habit of naming their skyscrapers, not by who funded
+            it, or by its purpose, but by what it looks like.
+        035_WalkieTalkie.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/035_WalkieTalkie.jpg
+          caption: Walkie Talkie
+          subcaption: Another iconic modern building of London's skyline, with a truly London-esque
+            name, the Walkie Talkie.
+        036_LondonBridge.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/036_LondonBridge.jpg
+          caption: London Bridge
+          subcaption: Fortunately, it isn't falling. One thing that did surprise me is that
+            people fish in the Thames, and here you can see a couple of blokes fishing under
+            London Bridge. It definitely isn't the cleanest river. Still isn't as bad as the
+            Ganges, but I would prefer to avoid eating fish caught here.
+        037_TowerOfLondon.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/037_TowerOfLondon.jpg
+          caption: Tower of London
+          subcaption: Tower of London, right next to Tower Bridge, the ticket prices are absolutely
+            astronomical. However, good for me, work has free tickets. This place is absolutely
+            bustling with history, and houses the Crown Jewels, as well as some other royal
+            artefacts.
+        038_TowerOfLondon-CrownJewels.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/038_TowerOfLondon-CrownJewels.jpg
+          caption: Building housing the Crown Jewels in the Tower of London
+          subcaption: ''
+        039_TowerOfLondon-Building.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/039_TowerOfLondon-Building.jpg
+          caption: Another Building in the Tower of London
+          subcaption: ''
+        040_TowerOfLondon-Building2.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/040_TowerOfLondon-Building2.jpg
+          caption: And another one
+          subcaption: ''
+        041_TowerOfLondon-MockExecution.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/041_TowerOfLondon-MockExecution.jpg
+          caption: Mock Execution at Tower of London
+          subcaption: Packed with kids, mock executions seem to be a family-friendly way to
+            enjoy the history of the Tower of London.
+        042_TowerBridge.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/042_TowerBridge.jpg
+          caption: Tower Bridge
+          subcaption: Situated right next to the Tower of London, this is one of many bridges
+            that let you cross the Thames. Very fancy, very old, and very narrow, it has nothing
+            on the world's best bridge, the Sydney Harbour.
+        043_MonumentToGreatFire.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/043_MonumentToGreatFire.jpg
+          caption: Monument to the Great Fire of London
+          subcaption: A massive column to commerate the Great Fire of London (not to be confused
+            with the other Great Fires of London), in September 1666. Destroying the homes
+            of 70,000 of the city's 80,0000 inhabitants, there have only been 6 recorded deaths,
+            however that number is disputed due to the intensity of the fire cremating the
+            remains of many people.
+        044_ViewFromMonument.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/044_ViewFromMonument.jpg
+          caption: View from the Monument
+          subcaption: After a tiring 311 steps up a narrow cylindrical staircase, and a 5
+            quid (cash only) entry fee, you're greeted with a beautiful overlooking view of
+            the City of London. All the famous landmarks are visible, St Paul's Cathedral,
+            the Gherkin, the Shard and Tower Bridge. Don't worry about falling off, theres
+            fencing around the whole 'balcony'. It's also awfully narrow, so expect to squeeze
+            past other tourists.
+        045_LondonEye.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/045_LondonEye.jpg
+          caption: London Eye
+          subcaption: On the South Bank of the River Thames, is Europe's tallest ferris wheel.
+            Opposite to Parliament and Big Ben, it provides an amazing view of Westminster,
+            but I haven't had the chance to get aboard.
+        046_BigBen.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/046_BigBen.jpg
+          caption: Palace of Westminster
+          subcaption: The meeting place of the two Houses of Parliament of the United Kingdom.
+            Not pictured is Big Ben, unfortunetly under crucial maintenance until 2020.
+        047_Horse.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/047_Horse.jpg
+          caption: Royal Guards
+          subcaption: 'No London photojournal is complete without military trained British
+            soldiers in funny uniforms. '
+        048_ScotlandYard.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/048_ScotlandYard.jpg
+          caption: Scotland Yard
+          subcaption: A couple of minutes down from Big Ben is Scotland Yard, the headquarters
+            of the Metropolitan Police Service. They're responsible for policing the vast
+            majority of London.
+        049_TheShard.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/049_TheShard.jpg
+          caption: The Shard, from the Tower of London
+          subcaption: Half a billion pounds went into this colossal glass pyramid, the tallest
+            building in Europe. Plenty of amazing offices, restaurants and hotels here, but
+            unfortunately, most out of my price range.
+        050_RedOldBus.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/050_RedOldBus.jpg
+          caption: Red Double Decker Bus
+          subcaption: A heritage service showcasing the red double decker bus of yore.
+        051_RoyalEx.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/051_RoyalEx.jpg
+          caption: Royal Exchange
+          subcaption: The Royal Exchange was founded in the 16th century and used to house
+            Lloyds Insurance for 150 years. Nowadays it houses fancy cocktail bars and luxury
+            shops. There's also a healthy amount of monuments adorning it's main entrance,
+            paying tribute to war heroes who dedicated their lives to England.
+        052_CannonStreetStation.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/052_CannonStreetStation.jpg
+          caption: Cannon Street Station
+          subcaption: An awful lot of tube stations in and around City of London, but this
+            was the one I'd get off at to get to work.
+        053_StGeorgeWharf.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/053_StGeorgeWharf.jpg
+          caption: St George's Wharf
+          subcaption: On extra fancy days, I'd take the ferry to Blackfriars.
+        054_BloombergBuilding.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/054_BloombergBuilding.jpg
+          caption: Bloomberg London
+          subcaption: Bloomberg's recently built new London office, built upon the ruins of
+            the ancient Roman temple of Mithras. The ruins were recreated and opened as a
+            museum for the general public.
+        055_BloombergEntrance.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/055_BloombergEntrance.jpg
+          caption: Entrance to the Bloomberg Building
+          subcaption: As soon as you walk in, you are surrounded by a whirlwind of hardwood,
+            a little confusing to walk around in, until you realise there are only two exits,
+            and you can't really get that lost.
+        056_BloombergPantry.jpg:
+          type: image
+          link: https://lens-img-alpha.netlify.app/leavingforlondon/056_BloombergPantry.jpg
+          caption: Bloomberg Pantry
+          subcaption: The main pantry, and one of many of the Bloomberg London office. Located
+            on level 6, you get a clear view of St. Paul's Cathedral, as you relax and snack
+            away. They don't serve food here everyday, to encourage employees to purchase
+            food from neighbouring small businesses.
+
+
+
