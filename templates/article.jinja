@@ -1,3 +1,9 @@
-{% macro article(title, contents) %}
-<h1> TODO Add Article Macro </h1>
+{% macro article(contents) %}
+<div class="container">
+<div class="row">
+    {% markdown %}
+    {{ contents }}
+    {% endmarkdown %}
+</div>
+</div>
 {% endmacro %}

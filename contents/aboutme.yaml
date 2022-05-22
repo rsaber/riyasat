@@ -1,0 +1,25 @@
+template: main.jinja
+
+navlinks: !include header.yaml
+type: article 
+
+contents: >
+
+  This is a markdown document to help me fix all my CSS issues.
+
+  # Here is an H1
+  
+  ## And an H2 here 
+  
+  ### And an H3 here 
+  
+  #### And an H4 here 
+  
+  ##### And an H5 here 
+  
+  ###### And an H6 here 
+ 
+  And some bullet points:
+    - point one
+    - point two
+    - point three

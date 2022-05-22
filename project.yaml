@@ -1,6 +1,7 @@
 pages:
   - contents/leavingforlondon.yaml
   - contents/unsw.yaml
+  - contents/aboutme.yaml
 
 pages-wip:
   - contents/placeholder.yaml
