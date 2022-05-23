@@ -5,13 +5,9 @@ title: About Me
 type: article 
 
 contents:
-  title: About Me
-  description: >
-    G'day I'm Riyo - C++ software engineer working in financial technology. I'll write things here that I think are either worth remembering about, or worth reading. I'm an avid photographer, and I take plenty of photos when I travel, all assembled into various photojournals here. Feel free to shoot me a message at saber(at)riyasat(dot)gmail(dot)com
   markdown: >
 
-    # h1
+    # About Me
     
-    ## h2 
-    
-    ### h3
+    G'day I'm Riyo - C++ software engineer working in financial technology. I'll write things here that I think are either worth remembering about, or worth reading. I'm an avid photographer, and I take plenty of photos when I travel, all assembled into various photojournals here. Feel free to shoot me a message at saber(at)riyasat(dot)gmail(dot)com
+  
