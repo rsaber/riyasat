@@ -4,23 +4,7 @@ navbar: !include header.yaml
 title: About Me
 type: article 
 
-contents: >
-
-  This is a markdown document to help me fix all my CSS issues.
-
-  # Here is an H1
-  
-  ## And an H2 here 
-  
-  ### And an H3 here 
-  
-  #### And an H4 here 
-  
-  ##### And an H5 here 
-  
-  ###### And an H6 here 
- 
-  And some bullet points:
-    - point one
-    - point two
-    - point three
+contents:
+  title: About Me
+  description: >
+    G'day I'm Riyo - C++ software engineer working in financial technology. I'll write things here that I think are either worth remembering about, or worth reading. I'm an avid photographer, and I take plenty of photos when I travel, all assembled into various photojournals here. Feel free to shoot me a message at saber(at)riyasat(dot)gmail(dot)com

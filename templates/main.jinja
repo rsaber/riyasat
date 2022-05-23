@@ -30,7 +30,7 @@
           {% from "article.jinja" import article %}
 
           {{ title(contents.title, "", contents.date, contents.description) }}
-          {{ article(contents) }}
+          {{ article(contents.markdown) }}
       {% endif %}
 
       <div class="row">
