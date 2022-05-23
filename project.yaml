@@ -1,10 +1,10 @@
-pages:
+buildlist:
   - contents/leavingforlondon.yaml
   - contents/unsw.yaml
   - contents/aboutme.yaml
   - contents/placeholder.yaml
 
-pages-wip:
+ignore:
   - contents/placeholder.yaml
   - contents/unsw.yaml
   - contents/quarantine.yaml
