@@ -17,7 +17,7 @@ categories:
     About:
         Me: contents/aboutme.yaml
         Resume: contents/placeholder.yaml
-        GitHub: contents/placeholder.yaml
-        LinkedIn: contents/placeholder.yaml
-        PGP: contents/pgp.yaml
+        GitHub: https://github.com/rsaber
+        LinkedIn: https://linkedin.com/in/riyasat-saber
+        PGP: contents/placeholder.yaml
 
