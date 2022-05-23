@@ -13,7 +13,7 @@
         <div class="nine columns">
                 <p class="lens-journal-links">
                     {% for label, link in links.items() %}
-                        {% if "https" in link %}
+                        {% if "http" in link %}
                             <a href="{{ link }}" target="_blank">{{ label }}</a> 
                         {% elif ANVIL_CURRENT_INPUT_FILENAME == link %}
                             <a class="lens-journal-links-selected">{{ label }}</a>
