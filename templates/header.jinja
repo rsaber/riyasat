@@ -1,11 +1,10 @@
 {% macro header(ANVIL_CURRENT_INPUT_FILENAME, ANVIL_FILENAME_MAPPINGS, title, subtitle, categories) %}
-<div class="container">
-    <div class="row">
-        <div class="twelve column" style="margin-top: 5%">
-            <h1 class="lens-website-title">{{title}}</h1>
-            <h3 class="lens-website-subtitle">{{subtitle}}</h3>
-        </div>
+<div class="row">
+    <div class="twelve column" style="margin-top: 5%">
+        <h1 class="lens-website-title">{{title}}</h1>
+        <h3 class="lens-website-subtitle">{{subtitle}}</h3>
     </div>
+
     {% for series_name, links in categories.items() %}
     <div class="row">
         <div class="one column">
@@ -25,12 +24,11 @@
                         {% if not loop.last %}
                         ·
                         {% endif %}
-                    {% endfor %}
-                </p>
+                {% endfor %}
+            </p>
         </div>
     </div>
     {% endfor %}
-    </div>
-   <hr>
 </div>
+<hr>
 {% endmacro %}
