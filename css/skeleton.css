@@ -10,6 +10,7 @@
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
+- Fonts
 - Grid
 - Base Styles
 - Typography
@@ -24,6 +25,35 @@
 - Clearing
 - Media Queries
 */
+
+/* Fonts 
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+@font-face {
+  font-family: GTAmericaRegular;
+  src: url(../fonts/GT-America-Regular.woff);
+}
+
+@font-face {
+  font-family: GTAmericaLight;
+  src: url(../fonts/GT-America-Light.woff);
+}
+
+@font-face {
+  font-family: GTAmericaBold;
+  src: url(../fonts/GT-America-Bold.woff);
+}
+
+@font-face {
+  font-family: GTAmericaExpandedBold;
+  src: url(../fonts/GT-America-Expanded-Bold.woff);
+}
+
+@font-face {
+  font-family: GTAmericaMedium;
+  src: url(../fonts/GT-America-Medium.woff);
+}
+
+
 
 
 /* Grid
@@ -124,7 +154,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "GTAmericaRegular", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 
