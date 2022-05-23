@@ -1,13 +1,13 @@
 {% macro image(link, caption, subcaption) %}
   <div class="row">
     <div class="twelve column">
-      <img class="lens-journal-full-width" src="{{link}}" loading="lazy">
+      <img class="full-width" src="{{link}}" loading="lazy">
     </div>
   </div>
   <div class="row">
     <div class="twelve column">
-      <p class="lens-journal-image-caption">{{caption}}</p>
-      <p class="lens-journal-image-subcaption">{{subcaption}}</p>
+      <p class="photojournal-image-caption">{{caption}}</p>
+      <p class="photojournal-image-subcaption">{{subcaption}}</p>
     </div>
   </div>
 {% endmacro %}

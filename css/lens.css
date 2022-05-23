@@ -30,45 +30,35 @@
 	text-decoration: underline;
 }
 
-.lens-journal-title{
-	font-family: 'GTAmericaMedium';
-	font-size: 18px;
+.photojournal-title {
 	margin-bottom: 10px;
 }
 
-.lens-journal-camera-type {
-	font-family: 'GTAmericaRegular';
+.photojournal-metadata{
 	font-size: 10px;
 	margin-bottom: 0px;
 }
 
-.lens-journal-date {
-	font-family: 'GTAmericaRegular';
-	font-size: 10px;
-	margin-bottom: 0px;
+.photojournal-description {
+	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
-.lens-journal-description {
-	margin-top: 10px;
-	font-family: 'GTAmericaRegular';
-	font-size: 16px;
+.full-width {
+	width: 100%
 }
 
-.lens-journal-full-width {
-	width: 100%;
-}
-
-.lens-journal-image-caption{
+.photojournal-image-caption{
 	font-family: 'GTAmericaMedium';
 	font-size: 14px;
 	margin-top: 2%;
 	margin-bottom: 0px;
 }
 
-.lens-journal-image-subcaption{
+.photojournal-image-subcaption{
 	font-family: 'GTAmericaRegular';
 	font-size: 12px;
-	margin-bottom: 10%;
+	margin-bottom: 0px;
 }
 
 .lens-journal-link-category{
