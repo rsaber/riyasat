@@ -1,0 +1,9 @@
+template: main.jinja
+navbar: !include header.yaml
+
+title: Placeholder 
+type: article 
+
+contents: >
+
+  # This document isn't ready just yet!
