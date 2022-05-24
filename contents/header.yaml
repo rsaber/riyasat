@@ -10,6 +10,14 @@ categories:
     Travel:
         Oxford: contents/placeholder.yaml
         Cambridge: contents/placeholder.yaml
+        Hamburg: contents/hamburg.yaml
+        Amsterdam: contents/amsterdam.yaml
+        Zurich: contents/zurich.yaml
+        Madrid: contents/madrid.yaml
+        West Bay Dorset: contents/westbaydorset.yaml
+        Washington DC: contents/dc.yaml
+        Perth: contents/perth.yaml
+        Melbourne: contents/melbourne.yaml
     Projects:
         Anvil: https://github.com/rsaber/anvil 
         Password Generator: http://pw.riyas.at
