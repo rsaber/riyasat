@@ -1,0 +1,86 @@
+template: main.jinja
+navbar: !include header.yaml
+
+title: "Quarantine on Darling Harbour"
+type: article
+
+contents: 
+    title: Quarantine on Darling Harbour
+    date: June 2020
+    markdown: |
+
+        Upon returning to Sydney during the early days of the pandemic, every international traveller would be subject to two weeks of hotel quarantine. With nothing to do but twiddle my thumbs, I thought it might be a good idea to work on my writing skills and log my experiences.
+
+        # The Decision to Fly Home
+
+        Three months of lockdown in London, and the descent into madness had become apparent, but only in the last weeks of May did it get unbearable. Restaurants: closed. Friends: stuck at home. Gyms: shut down. I had seen all my hard work melt way, and all I could do was sit back and watch, literally. I had a bodyweight fitness routine, but nothing really quite scratched the itch like 5x5 weighted exercises. My friends were constantly posting their covid-restrictionless-life on Instagram, and I've got to admit, I was jealous. Enough was enough, I booked a flight in two days, and I was going to cop whatever quarantine restrictions I had to. The way I saw it, I was trading 2 weeks of forced isolation for virtually limitless freedom with friends and family. Work was supportive of my decision, provided I have decent overlap with London working hours (actually quite an easy feat), and so were friends and family.
+
+        # LDN -> DIA -> SYD, A Masked Adventure 
+
+        I had been mask less for most of the lockdown; I had no need to get into confined spaces in London, and whenever I left the house, I kept a healthy 2m distance from others. However, arriving at Heathrow, they weren't as carefree. On entering Terminal 2, they inspect your passport to ensure only travellers would enter the airport, and they hand you a mask with a pair of tongs. You need to wear it throughout your trip in the airport. Waiting in line at baggage drop, I met a group of Aussies also trying to get home, one of whom was an exchange student from Cardiff who had weathered out as much of the pandemic as he could in a foreign country. Just like me, he had had enough, and there was no point in staying any more. 
+
+        The flight itself felt surreal. The flight attendants were dressed as if they worked in a semiconductor fab clean room, where a spec of dust would be catastrophic. Dressed in white overalls, pale blue N95 masks, and eyes protected by clear glasses, they were very understanding of the situation at hand. We didn't need to wear masks on board, but sitting next to the bathroom in an aisle seat, I found myself frustrated with the high foot traffic of especially old people who thought masks on your chin were just as effective. When I wasn't conscious, I placed a puffer jacket over my head, in addition to my mask, to ensure that no stray Rona particles would infect me and ruin my plans.
+
+        Our flight had two legs, one to Doha, and then an hour stopover before the final leg to Sydney. The first leg, for some reason, was not socially distanced. It wasn't the fact that the plane was too full, no. The plane had plenty of space, but we were not equally distributed. Moments before takeoff, a passenger behind me, in the most stereotypical bogan accent you could imagine, flew into a tantrum. "It's an absolute disgrace! We're meant to be socially distancing, but half the fucking place is empty!". A timid flight attendant took the brunt of the anger, as more and more people started to complain. Everyone eventually dispersed, on the lookout for a row of three empty seats for themselves, only to settle for two. The bloke sitting next to me had moved too. One thing that surprised me was, everyone was in it for themselves. They were looking out for the best seat for their safety, yet somehow, the plane seats were equally distributed. I had imagined that would only have been possible if some central authority, i.e the airline, had assigned people to seats, but it looks like the right incentives (i.e not catching COVID) seems to also do the trick.
+
+        The second leg via Doha was a lot emptier. A lot of passengers from the first leg had gone onto a different flight. Doha to Sydney had far more space, I had a whole 3 seats to myself, and slept as well as a baby could in cramped economy. Food was superb, entertainment was entertaining, and Wi-Fi was available, so I could keep in contact with friends and family. There was a guy sitting in front of me, who told me his story of how he found himself in London flying home amidst a pandemic. Working on a cruise ship, he underwent 21 days in quarantine on board, a feat I can't begin to imagine. Stuck in a room, with only your girlfriend, with just a toilet and bed. To add to that, he was quite a tall guy, so I found myself reassured that if he could survive 21 days in close quarters without going mad, I could easily do 14 in a 5-star hotel, right?
+
+        # Immigration Woes - Am I Not Aussie Enough?
+
+        Once we landed in Sydney, things felt ... different. 
+
+        Most of the airport was the same, but the duty-free stores were closed, and we navigated a series of emergency paths to get through. Our temperatures were screened, and we were diligently asked about any potential symptoms we may have. Airport staff handed leaflets explaining the tough 14 day quarantine ahead, and how the sacrifice we are making is necessary for the well-being of Australia.
+
+        At immigration, I was questioned for returning to the country. Being an Aussie citizen, I had every right to return to Australia whenever I wanted, but apparently I shouldn't have returned, as I'm a UK resident. I was questioned by another agent, who asked me what family I had in Australia, to which I replied: "Literally everyone I know, mum, dad, brothers, sisters". She seemed satisfied with that answer, and off I went through luggage claim, and then customs. 
+
+        # Forced Isolation, A Tale of Solitude
+
+        After navigating a series of even more convoluted paths at Kingsford Smith Airport, we arrived at a series of buses surrounded by police and the Australian Defence Force. The soldiers, who were surprisingly mask less, loaded my suitcase and duffel bag into the bus, and I hopped on board. The general vibe seemed to be chipper, with all those working there and the passengers on the bus. Just after me, entered two friends I had made on the flight, Guy and Joy. Sitting behind me, I told them that I had almost been deported, a story they seemed to be skeptical of, because you know, I am a citizen. I'm brown yes, but this isn't the US. Firing up Google Maps, we spent the bus ride trying to figure out whether we were destined for 2 weeks in a Travelodge, or the Hilton. 
+
+        We arrived at the Novotel Sydney on Darling Harbour, and escorted off the bus one by one. A police sergeant was there to assure us that even though what lies ahead is a difficult journey of self isolation, there would be plenty of support. He seemed very nervous, and unable to really articulate his thoughts; constantly looking back on a series of notes he had in his hand. We were told to take extra care with our mental well-being, to stay in touch digitally with friends and family, and given recommendations on what shows to binge on Netflix.
+
+        Once escorted off the bus, we had to keep our masks on until we entered our rooms. Soldiers helped me take my luggage to my room, and when signing into reception, a police officer was there to take our names, boarding passes and what seats we sat on on the place, as well as emergency contact information.
+
+        Entered the room at 11pm, and much to our pleasure, that actually counted as the first day! Food was served with a knock on the door, and in each meal bag was an A4 sheet of paper were we could select our preferred meals for later days. As lovely as all this was, I still eagerly awaited the day I would see another human being in the flesh.
+
+        The 2 weeks went by rather quick. Everyday that I was in there, it had felt like it was the second day. I had gotten into a good routine, with work keeping my busy on the weekdays. The second Monday of isolation was the Queen's Birthday. As a special fun challenge, the hotel had challenged us to dress as regally as possible, given the things in our hotel room. To enter the competition and go into the draw to win one of 2 hampers, we would have to post our photo on Instagram with certain hashtags, #covidking or #quaranqueen. I had spent some time deliberating on what to dress as, most of the other participants would be dressing very English-royal, however, nowhere did they specify that we would have to dress as a Western Royal. Armed with a towel and laptop cable, I placed my makeshift *shemagh* atop of my head, with the cable serving as an *agal*. My persona? Sheikh Covidullah, member of the Saudi Royal Family. Now, there's definitely a chance that this would be offensive, considering I have a towel on my head, and that is literally a racial slur. But, this is Australia, we know how to take the piss without getting offended.
+
+        The food served was fantastic and when the hotel chefs didn't pull through with an absolute banger of a meal, UberEats had plenty of options. The first week I found myself ordering breakfast burritos from GYG. The breakfast options were often a hit or miss. My diet had definitely gone to shit, but I tried to keep true to my bodyweight fitness excise regime that I had been sticking to for 3 months in London. It however, wasn't something I was too strict on, knowing that as soon as I leave, mid June, gyms would be open and whatever dietary wrongs I've committed in lockdown, I could erase with a lift of the dumbbell.
+
+        I posted stories on my Instagram every alternate day, kind of similar to this blog post, where I outlined my mood, my struggles, the experience as a whole. Plenty of people had checked in with me, even those I didn't speak to very often, and that sort of human contact is something I came to appreciate a lot. 
+
+        # Testing for COVID, A Dreadful Experiment with Cotton Buds 
+
+        On day 5, I developed a very mild sore throat. This was so mild that it was barely noticeable, yet given the climate, I thought it was reasonable to ring some alarm bells. Because of the lack of opening windows, I had suspected it was the lack of fresh air. We would get daily calls between 9am and 12pm asking us if we had developed any symptoms. If we had, they would test us, and get a result back to us in 24-48 hours. I was promptly tested by two nurses outside my room, where I had to deepthroat a cotton bud (fun!), and have another shoved far up my nose. Not a pleasurable experience. The nurses however, made the effort to make small talk with me knowing that it had been quite a while since I had seen another human being in the flesh. A very nice gesture.
+
+        I was incredibly nervous. Not because I may test positive, because my symptoms were so mild I probably wouldn't have any issue with it. But the fact that if it came back positive, even as a false positive, I would be shipped off to a different facility, one that wasn't 5 star.
+
+        A day passed, and I received a call. "Hi is this Riyasat? You tested negative, thank you!". Relief. 
+
+        Although I had already been tested, every quarantined inmate was to be tested on day 10. This was because during the course of the public health order, many travellers only started showing symptoms their last day. Again, the nurses came by, one with a strong Irish accent and another who stood there silently. This time, the test was far worse; ten seconds to the back of the throat and ten more seconds per nostril. No small talk this time, just test and move on to the next room. Even though I had already tested negative, there was still the possibility of a (false-negative, true-positive) or a (true-negative, false-positive). I haven't a clue what sort of tests they were using, so there was no way I could research the accuracy of the tests. To reassure myself, I reminded myself that there's no benefit to knowing what the accuracy rates, whatever outcome fate had set, me knowing the false-positive rate would not affect it.
+
+        Two days later, day 12 of my stay, I get another call. Irish accent, "Hi Ree-ya-sat, is it? Any COVID symptoms? You had a swab test two days, ago, nothing detected, thank you!". I can't explain the sort of relief I felt. The past 2 weeks in quarantine has been a roller-coaster of emotions; loneliness, anxiety, a distinct lack of happiness (although not sadness *per se*). 
+
+        Every feeling had been amplified 10 fold, and it became so much harder to ignore them. Of course, I neglected to tell anyone this, even the counsellors contracted to ensure our well-being. There was this sense of guilt I felt if I were to complain about an all expenses paid 5-star hotel stay. It was my choice to fly back, and I flew back knowing full well that I would be put under quarantine.
+
+        # Virtual Hugs and Welfare Check Ups
+
+        Throughout the stay, I received 3 types of phone calls. One from the nurses at the hotel, about symptoms. One from a counsellor in Melbourne, and another from the Red Cross. The last two were generally filled with small talk to verify that I hadn't gone mad, and I was coping as well as possible in isolation. To be fair, I really was, and there had been some others who weren't taking it as well as I was. I appreciated the small talk, the talk about whats keeping me busy, what I do for a living, how I work remotely and what Netflix shows I'm binging.
+
+        # Keeping Busy
+
+        Passing time in quarantine is incredibly tough. I was lucky enough to have work to keep a couple hours of my day occupied. The two weeks started out as a slothful, Netflix fuelled binge of laziness, but as time went on, you start to see how useless that is. You try and find more productive ways to keep yourself occupied. Reading, learning, creating. This blog itself was born in quarantine, and so were a number of posts on this site. But as time went on, the closer you get to the final two week mark, the less it hits the spot. Even work got far less productive, which is surprising, because you would think that having nothing else to do would make you more productive. 
+
+        There were a couple of quarantine productive activities I tried to start: writing a game (although anything 3D didn't seem to play well with my shitbox GPU-less laptop), writing an app (actually I have no excuse why I didn't get far on that one), writing a static site generator (gave up and used Hugo instead). Motivation is really hard to come by, and I have to admit, it's totally a mindset thing. 
+
+        Netflix binging however, required no motivation whatsoever. *White Lines*, a show that follows the story of a woman from Manchester trying to piece together the final moments of her brothers life in Ibiza, falling down a path of deception, drugs and decadence. 5/10. *Space Force*, Michael Scott takes the US to the moon. 7/10. And the only book that I got through: *Flash Boys*, an expose on the "unethical" techniques employed by high frequency trading cowboys. 9/10.
+
+        # Freedom, So Close I Can Taste It
+
+        Friday morning, 10am, I get a knock on the door. Outside are six police officers and two medical professionals. They explain to me that I've completed by quarantine, and ask me what time I plan to leave. I didn't want to be here any longer than I had to, so I said 12am, Sunday. As in, 11:59pm Saturday, minute ticks over to 12:00am Sunday, and I'm out. The medical professionals hand me a series of letters explaining that I've complied with the public health order, attach a wristband that says "SATURDAY - COVID19 NSW" and explain that I need to show the police this wristband to leave the hotel. 
+
+        The first police offer then clears up an apparent misconception. I landed on Sunday, but I can leave on Saturday. I needed to stay in quarantine for 13 nights,  so I could leave on the 14th day. I was leaving a day earlier than expected! I grew the widest grin on my face, and everyone could notice. In fourteen hours, I'm outta here!
+
+        Midnight ticks over, it's freedom o'clock. Carrying three articles of luggage I leave my room, and head down the lifts. Two police officers ask for ID, then help me take my luggage into the freezing midnight cold. I don't care about the temperature, all I've wanted to do was to smell the fresh air. $168 and an hour later, I arrive home, unbeknownst to my family. I neglected to tell them about my little math error, because a) they would make fun of me not being able to count and b) I'd like for them to have the same feeling of surprise I had when the officers told me.
+
+        It's over. Definitely an experience, and if I were to do this again, I'd probably do some hippie shit and self isolate on a mountain top. With a couple of mates.

@@ -29,7 +29,10 @@
           {{ photojournal(contents.entries)}}
       {% elif type == "article" %}
           {% from "article.jinja" import article %}
-
+        
+          {% if contents.title is defined %}
+          {{ title(contents.title, "", contents.date, "") }}
+          {% endif %}
           {{ article(contents.markdown) }}
       {% endif %}
 

@@ -8,11 +8,11 @@ buildlist:
   - contents/cambridge.yaml
   - contents/hamburg.yaml
   - contents/amsterdam.yaml
+  - contents/quarantine.yaml
 
 ignore:
   - contents/placeholder.yaml
   - contents/unsw.yaml
-  - contents/quarantine.yaml
   - contents/saap.yaml
   - contents/zurich.yaml
   - contents/madrid.yaml
