@@ -7,13 +7,13 @@ buildlist:
   - contents/oxford.yaml
   - contents/cambridge.yaml
   - contents/hamburg.yaml
+  - contents/amsterdam.yaml
 
 ignore:
   - contents/placeholder.yaml
   - contents/unsw.yaml
   - contents/quarantine.yaml
   - contents/saap.yaml
-  - contents/amsterdam.yaml
   - contents/zurich.yaml
   - contents/madrid.yaml
   - contents/westbaydorset.yaml

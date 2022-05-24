@@ -1,0 +1,215 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Amsterdam, The Netherlands
+contents:
+  title: Amsterdam, The Netherlands
+  camera: Samsung S9+
+  date: Early March 2019
+  description: A rainy weekend away with two work mates in Amsterdam.
+  entries:
+    20190315_182211_Airport.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190315_182211_Airport.jpg
+      caption: Schiphol
+      subcaption: The main airport in Amsterdam.
+    20190315_205958_AmsterdamAirportStation.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190315_205958_AmsterdamAirportStation.jpg
+      caption: Amsterdam Airport Schiphol Station
+      subcaption: Being a developed European nation, public transport is both an affordable
+        and convenient way to get around the city.
+    20190316_105402_RijkMusuem.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190316_105402_RijkMusuem.jpg
+      caption: Rijksmuseum
+      subcaption: Home of the Duthc Masters - Rembrand, Vermeer and Van Gogh.
+    20190316_123356.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190316_123356.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190316_140114_CuteCar.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190316_140114_CuteCar.jpg
+      caption: Small Car
+      subcaption: If not on bikes, Dutch like small cars it seems?
+    20190316_155807_FalunGong.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190316_155807_FalunGong.jpg
+      caption: Falun Gong
+      subcaption: Around every European tourist attraction are protesters showing
+        gruesome images of Falun Gong practitioners at the hand of the Chinese government.
+    20190317_063135Park.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_063135Park.jpg
+      caption: Park near Hostel
+      subcaption: A park closeby to the God awful hostel we stayed at.
+    20190317_080042Theatre.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_080042Theatre.jpg
+      caption: TestCaption
+      subcaption: ''
+    20190317_081116Streetway.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_081116Streetway.jpg
+      caption: Streetway in Amsterdam
+      subcaption: ''
+    20190317_082643JewishMemorial.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_082643JewishMemorial.jpg
+      caption: Jewish Memorial
+      subcaption: A memorial dedicated to the Jews persecuted in WW2.
+    20190317_083355Church.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_083355Church.jpg
+      caption: A Church
+      subcaption: Although theism is on the decline in Western Europe, there are never
+        shortages of Churches.
+    20190317_084115RembrantSquare.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_084115RembrantSquare.jpg
+      caption: Rembrandt Square
+      subcaption: A park/plaza dedicated to Rembrandt.
+    20190317_084816TulipMarket.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_084816TulipMarket.jpg
+      caption: Tulip Market
+      subcaption: The Dutch know best when it comes to speculating on bullshit assets
+        with no intrinsic value or worth.
+    20190317_084840ClockTower.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_084840ClockTower.jpg
+      caption: Clock Tower
+      subcaption: false
+    20190317_084901Street.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_084901Street.jpg
+      caption: Street
+      subcaption: false
+    20190317_084904Street2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_084904Street2.jpg
+      caption: ''
+      subcaption: ''
+    20190317_085030Bicycles.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_085030Bicycles.jpg
+      caption: Bicycles
+      subcaption: The Dutch are plenty fond of bicycles.
+    20190317_090619.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_090619.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_090825.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_090825.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_091240Weed.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_091240Weed.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_091540Weed2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_091540Weed2.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_091916.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_091916.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_092005.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_092005.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_092130Canals.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_092130Canals.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_092437BikeInStreetway.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_092437BikeInStreetway.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_094231VictoriaHotel.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_094231VictoriaHotel.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_094309.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_094309.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_094406.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_094406.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_094723BikesAtAmsterdamCentral.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_094723BikesAtAmsterdamCentral.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_100042Clocktower.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_100042Clocktower.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_102418.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_102418.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_102719MagnaPlaza.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_102719MagnaPlaza.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_104054.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_104054.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_105130.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_105130.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_141242_SkinnyBridge.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_141242_SkinnyBridge.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    20190317_141624.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/20190317_141624.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    BuildingWithTramLines.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/BuildingWithTramLines.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    Market.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/Market.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    Musuem.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/Musuem.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    RijkMusuem.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/RijkMusuem.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+
