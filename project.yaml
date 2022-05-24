@@ -4,6 +4,7 @@ buildlist:
   - contents/unsw.yaml
   - contents/aboutme.yaml
   - contents/placeholder.yaml
+  - contents/oxford.yaml
 
 ignore:
   - contents/placeholder.yaml

@@ -1,0 +1,187 @@
+template: main.jinja
+navbar: !include header.yaml
+
+type: photojournal
+title: Oxford, United Kingdom
+
+contents:
+  title: Oxford, United Kingdom
+  camera: "Samsung S9+"
+  date: "November 2018"
+  description: A day trip to the famed university town. Not too long of a train ride out of London, and not too expensive either.
+  entries:
+    001_RadcliffeCameraAndStMary.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/001_RadcliffeCameraAndStMary.jpg
+      caption: Radcliffe Camera and St Mary's Cathedral
+      subcaption: false
+    002_TrainToCambridge.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/002_TrainToCambridge.jpg
+      caption: Train to Cambridge
+      subcaption: Booked a ticket last minute on trainline on the GWR. Surprisingly affordable,
+        and surprisingly empty. The train was equipped with power points at every seat,
+        and a very nice bathroom at the nd of each carriage.
+    003_InsideTrain.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/003_InsideTrain.jpg
+      caption: false
+      subcaption: false
+    004_RoyalOxfordHotel.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/004_RoyalOxfordHotel.jpg
+      caption: The Royal Oxford Hotel
+      subcaption: Two minutes away from the city centre, the Royal Oxford Hotel has some
+        pretty nice and spacious rooms. Being the stingy boy I am, I didn't stay the night,
+        so don't expect any photos of the insides.
+    005_OxfordStreet1.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/005_OxfordStreet1.jpg
+      caption: false
+      subcaption: false
+    006_OxfordStreet2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/006_OxfordStreet2.jpg
+      caption: false
+      subcaption: false
+    007_StAldgatesCorner.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/007_StAldgatesCorner.jpg
+      caption: St Aldgates Corner
+      subcaption: false
+    008_ChristChurchWarMemorialGarden.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/008_ChristChurchWarMemorialGarden.jpg
+      caption: Christ Church War Memorial Garden
+      subcaption: In memory of members of Christ Church who fought in the First World
+        War. Walking further along leads to the Christ Church Meadows, and further north
+        is the Tom Tower.
+    009_ChristChurchWarMemorialGardenSign.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/009_ChristChurchWarMemorialGardenSign.jpg
+      caption: Sign on the War Memorial Garden
+      subcaption: false
+    010_FarmNearChristChurch.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/010_FarmNearChristChurch.jpg
+      caption: Christ Church Meadows
+      subcaption: Bounded by the River Thames (yes, the dingy, brown river in London),
+        lies Christ Church Meadows, a popular picnic and walking spot.
+    011_ChristChurchWarMemorialEntrance.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/011_ChristChurchWarMemorialEntrance.jpg
+      caption: Entrance to the Christ Churck War Memorial
+      subcaption: false
+    012_River.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/012_River.jpg
+      caption: River Thames
+      subcaption: Stretching all the way from London, here is another fantastically edited
+        shot of the River Thames. Kayaking teams can be seen here, training, although
+        I have yet to spot a fisherman like I have back in London.
+    013_QuaintOxfordStreet.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/013_QuaintOxfordStreet.jpg
+      caption: Quiant Oxford Street
+      subcaption: false
+    014_MountAtOxfordCastle.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/014_MountAtOxfordCastle.jpg
+      caption: Mound at Oxford Castle
+      subcaption: Apparently an entirely man made endeavour, the Mound is a somewhat tall,
+        well, mound. Costing a mere 3 quid to get in, the climb was not steep, nor tiring.
+        It's just a mound I guess?
+    015_MountAtOxfordCastleOnTop.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/015_MountAtOxfordCastleOnTop.jpg
+      caption: View from the Mound
+      subcaption: The view however is fantastic, although be careful not to roll off.
+    016_CarfaxTower.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/016_CarfaxTower.jpg
+      caption: Carfax Tower
+      subcaption: A steep climb up a narrow set of stairs (so narrow that only one person
+        can fit in), Carfax Tower gives an amazing view of the Oxford city centre. It's
+        all that remains of a 12th century Church, and for a fair part of its life, was
+        the official church of Oxford.
+    017_ViewFromCarfaxTower.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/017_ViewFromCarfaxTower.jpg
+      caption: View from Carfax Tower
+      subcaption: false
+    018_ChristChurch.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/018_ChristChurch.jpg
+      caption: Christ Church
+      subcaption: Now that its finally 10am, and the church courtyards have finally opened
+        to tourists, I head back to Christ Church, pay up (because this is the UK, where
+        nothing is free).
+    019_ChristChurchCourtyard.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/019_ChristChurchCourtyard.jpg
+      caption: Tom Quad and Tom Tower
+      subcaption: 'Named after its bell, Tom Tower is the main entrance of Christ Church,
+        which leads to Tom Quad. '
+    020_DiningHallChristChurch.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/020_DiningHallChristChurch.jpg
+      caption: Dining Hall in Oxford University
+      subcaption: false
+    021_Meadows.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/021_Meadows.jpg
+      caption: Meadows in Oxford University
+      subcaption: false
+    022_OppositeBotanicalGarden.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/022_OppositeBotanicalGarden.jpg
+      caption: Some Church
+      subcaption: Honestly can't remember what this was.
+    023_PuntingByTheRiver.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/023_PuntingByTheRiver.jpg
+      caption: Punting by the River
+      subcaption: Near Magdalen Bridge Boathouse, you can hire a traditional Oxford punt,
+        rowing boat or pedalo and enjoy cruising along Oxford's stunning River Cherwell.
+    024_Musuem.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/024_Musuem.jpg
+      caption: Musuem jjjjj
+      subcaption: TetsUbstUpcaton
+    025_BotanicalGardens.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/025_BotanicalGardens.jpg
+      caption: Botanical Gardens
+      subcaption: 'Everything in Oxford has an entry fee. And being the cheapskate I am,
+        I jumped up, snapped a photo over the hedges, and called it a day. '
+    026_StMaryCathedral.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/026_StMaryCathedral.jpg
+      caption: St Mary's Cathedral
+      subcaption: The official church of Oxford University, this church comes equipped
+        with all your Bible loving needs.
+    027_StMaryCathedral2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/027_StMaryCathedral2.jpg
+      caption: St Mary's Cathedral
+      subcaption: They sure love Jesus here.
+    028_ViewFromStMary.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/028_ViewFromStMary.jpg
+      caption: View from the top of St Mary's Cathedral
+      subcaption: Another 4 quid and a gruelling 300 step climb up yet another staircase
+        wide enough to fit a single person, I'm presented with a beautiful view of the
+        city.
+    029_RadcliffeCamera.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/029_RadcliffeCamera.jpg
+      caption: Radcliffe Camera
+      subcaption: Taken from the top of St Mary's, Radcliffe Camera ("camera" being Latin
+        for "room"), is a neo classical piece of architecture from the late 1700's. Funded
+        with the estate of a John Radcliffe, it hosts a wide range of scientific literature.
+    030_ViewFromStMary2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/oxford/030_ViewFromStMary2.jpg
+      caption: Another view from St Mary's Cathedral
+      subcaption: false
+
