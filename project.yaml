@@ -2,7 +2,6 @@ buildlist:
   - contents/index.yaml
   - contents/leavingforlondon.yaml
   - contents/unsw.yaml
-  - contents/aboutme.yaml
   - contents/placeholder.yaml
   - contents/oxford.yaml
   - contents/cambridge.yaml

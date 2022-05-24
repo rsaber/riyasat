@@ -24,7 +24,7 @@ categories:
         Arrowthumb: contents/placeholder.yaml
         Bloomberg Keyboard M: contents/placeholder.yaml
     About:
-        Me: contents/aboutme.yaml
+        Me: contents/index.yaml
         Resume: contents/placeholder.yaml
         GitHub: https://github.com/rsaber
         LinkedIn: https://linkedin.com/in/riyasat-saber
