@@ -4,6 +4,9 @@ navbar: !include header.yaml
 title: Placeholder 
 type: article 
 
-contents: >
+contents: 
+  markdown: >
 
-  # This document isn't ready just yet!
+    # This document isn't ready just yet!
+    
+    But hopefully it will be soon!
