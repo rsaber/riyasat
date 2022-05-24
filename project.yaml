@@ -5,6 +5,7 @@ buildlist:
   - contents/aboutme.yaml
   - contents/placeholder.yaml
   - contents/oxford.yaml
+  - contents/cambridge.yaml
 
 ignore:
   - contents/placeholder.yaml
@@ -12,7 +13,6 @@ ignore:
   - contents/quarantine.yaml
   - contents/saap.yaml
   - contents/oxford.yaml
-  - contents/cambridge.yaml
   - contents/hamburg.yaml
   - contents/amsterdam.yaml
   - contents/zurich.yaml
