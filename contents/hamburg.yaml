@@ -1,0 +1,17 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Hamburg, Germany
+
+contents:
+  title: Hamburg, Germany
+  camera: Samsung S9+
+  date: FillIn
+  description: A rainy day trip to Hamburg, home of the Hamburger.
+  entries:
+    RijkMusuem.jpe:
+      type: image
+      link: https://lens-img-alpha.netlify.app/amsterdam/RijkMusuem.jpe
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+
