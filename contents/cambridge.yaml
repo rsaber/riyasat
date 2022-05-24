@@ -27,125 +27,125 @@ contents:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/004_CambridgePlaza.jpg
       caption: Cambridge Plaza
-      subcaption: TetsUbstUpcaton
+      subcaption: false 
     005_School.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/005_School.jpg
       caption: School in Cambridge
-      subcaption: TetsUbstUpcaton
+      subcaption: false 
     006_Street.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/006_Street.jpg
       caption: Streets and Shops
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     007_StAndrewChurch.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/007_StAndrewChurch.jpg
       caption: St Andrew's Church
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     008_ParkersPiece.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/008_ParkersPiece.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     009_PembrokeCollege.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/009_PembrokeCollege.jpg
       caption: Pembroke College
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     010_StreetInCambridge.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/010_StreetInCambridge.jpg
       caption: Street in Cambridge
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     011_SomeOtherCollege.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/011_SomeOtherCollege.jpg
       caption: Another College in Cambridge
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     012_StAndrewsBasilica.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/012_StAndrewsBasilica.jpg
       caption: St Andrew's Basilica
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     013_CambridgePlantSciences.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/013_CambridgePlantSciences.jpg
       caption: Plant Sciences Building
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     014_CamrbidgeBuilding2.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/014_CamrbidgeBuilding2.jpg
       caption: ''
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     015_Street2.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/015_Street2.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     016_Street3.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/016_Street3.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     017_CambridgeCollege.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/017_CambridgeCollege.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     019_MuseumOfAntropology.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/019_MuseumOfAntropology.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     020_FitzwilliamMuseum.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/020_FitzwilliamMuseum.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     021_EntranceToFitzwilliam.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/021_EntranceToFitzwilliam.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     022_GreekHeads.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/022_GreekHeads.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     023_ChinaPlates.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/023_ChinaPlates.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     024_BritishKnights.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/024_BritishKnights.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     025_HeronCollege.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/025_HeronCollege.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     026_FacultyBuilding.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/026_FacultyBuilding.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     027_FacultyFields.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/027_FacultyFields.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     output.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/output.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
     tmp.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/cambridge/tmp.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: false
 
