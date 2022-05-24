@@ -1,0 +1,86 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Washington DC, United States
+contents:
+  title: Washington DC, United States
+  camera: Samsung S9+
+  date: Late December 2019
+  description: A last of my pre-pandemic trips.
+  entries:
+    parliament.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/parliament.jpg
+      caption: United States Capitol
+      subcaption: Where the two houses of legislature turn the slow, poorly lubricated
+        gears of governance.
+    anotherhorse.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/anotherhorse.jpg
+      caption: Horse Statue
+      subcaption: ''
+    first.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/first.jpg
+      caption: Washington Monument
+      subcaption: A hollow Egyptian style stone obelisk with a 500-foot tall column
+        surmounted by a 55-foot (16.8 m) tall pyramidion.
+    horse3.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/horse3.jpg
+      caption: Statue of Man Riding Horse
+      subcaption: ''
+    monument.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/monument.jpg
+      caption: Monument to Friedrich Wilhelm von Steuben
+      subcaption: Friedrich Wilhelm von Steuben was a Prussian military officer credited
+        with reforming the Continental Army into a disciplined force, one that could
+        take on Great Britian.
+    musuem.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/musuem.jpg
+      caption: Musuem of ...
+      subcaption: '...'
+    obelisk.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/obelisk.jpg
+      caption: Another angle of the Washington Monument
+      subcaption: ''
+    park.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/park.jpg
+      caption: Park in DC
+      subcaption: ''
+    pathtowhitehouse.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/pathtowhitehouse.jpg
+      caption: Path to White House
+      subcaption: false
+    train.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/train.jpg
+      caption: Christmas Train Model
+      subcaption: ''
+    treasury.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/treasury.jpg
+      caption: Treasury Department
+      subcaption: Where interest rates get cut.
+    water.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/water.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    whitehous.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/whitehous.jpg
+      caption: White House
+      subcaption: Packed with tourists and swarming with police, this was the best
+        photo I could take.
+    xmastree.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/dc/xmastree.jpg
+      caption: Christmas Tree
+      subcaption: ''
+

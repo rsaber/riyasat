@@ -1,0 +1,232 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Zurich, Switzerland
+contents:
+  title: Zurich, Switzerland
+  camera: Samsung S9+
+  date: November 2018
+  description: A short weekend trip to meet an old friend on exchange.
+  entries:
+    001_ZurichTitle.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/001_ZurichTitle.jpg
+      caption: "View from the top of Grossm\xFCnster Church"
+      subcaption: false
+    002_PicadillyStatioin.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/002_PicadillyStatioin.jpg
+      caption: Picadilly Station
+      subcaption: The easiest way to get to Heathrow aiport, taking the Picadilly
+        line as far west as you can.
+    003_FlughafenAirport.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/003_FlughafenAirport.jpg
+      caption: Flughafen Aiport
+      subcaption: "After a quick one and a half hour flight, accompanied by in-flight\
+        \ Swiss chocolate, I was in Z\xFCrich."
+    004_FlughafenStation.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/004_FlughafenStation.jpg
+      caption: Flughafen Station
+      subcaption: As with any modern developed city (*cough cough* Melbourne), the
+        airport is equipped with public transport, allowing easy access to the city
+        and back.
+    005_ZolikonView.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/005_ZolikonView.jpg
+      caption: Zolikon Neighbourhood
+      subcaption: My mate's student accomodation was in the nice suburb of Zolikon,
+        where there isn't any of the hustle or bustle of city life that you're usually
+        used to. Quiet suburban life.
+    006_ZolikonStation.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/006_ZolikonStation.jpg
+      caption: Zolikon Station
+      subcaption: The station close to my mates student accomodation. An absolutely
+        stunning view of Lake Zurich, something you definitely wouldn't see in London.
+    007_ZolikonStation2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/007_ZolikonStation2.jpg
+      caption: Zolikon Station
+      subcaption: false
+    008_Sprugli.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/008_Sprugli.jpg
+      caption: "Spr\xFCngli"
+      subcaption: The Swiss are known for their love of chocolate, and the city is
+        laden with chocolatiers.
+    009_Trams.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/009_Trams.jpg
+      caption: Trams in the City
+      subcaption: As with most Western European nations, the Swiss are also fond of
+        having reliable public transport, including trams.
+    010_Grossmunster.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/010_Grossmunster.jpg
+      caption: "Grossm\xFCnster Church"
+      subcaption: "A Romanesque-style Protestant church in the heart of Z\xFCrich,\
+        \ it is one of the 4 major churches in the city."
+    011_GrossmunsterView1.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/011_GrossmunsterView1.jpg
+      caption: "View from Grossm\xFCnster Church"
+      subcaption: 5 Francs, and a somewhat tiring climb up, you are greeted with a
+        beautiful 360 degree view of the city.
+    012_GrossmunsterView2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/012_GrossmunsterView2.jpg
+      caption: "View from Grossm\xFCnster Church"
+      subcaption: ''
+    014_Racelette.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/014_Racelette.jpg
+      caption: Raclette Factory
+      subcaption: Literally melted cheese on top of meat, pickles and more cheese.
+    014_RacletteChef.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/014_RacletteChef.jpg
+      caption: Chef from Racelette Factory
+      subcaption: ''
+    015_Plaza.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/015_Plaza.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    016_PlazaCrepes.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/016_PlazaCrepes.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    017_River.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/017_River.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    018_CityCenter.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/018_CityCenter.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    019_LaderachStore.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/019_LaderachStore.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    020_Laderach.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/020_Laderach.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    021_Polybahn.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/021_Polybahn.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    022_ViewFromETH.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/022_ViewFromETH.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    023_ETH.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/023_ETH.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    024_ETHHall.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/024_ETHHall.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    025_NudeStatue.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/025_NudeStatue.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    026_ETHCompSci.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/026_ETHCompSci.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    027_Trams2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/027_Trams2.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    028_QuietPark.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/028_QuietPark.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    029_ZurichbergStart.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/029_ZurichbergStart.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    030_AZurichberg.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/030_AZurichberg.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    030_Zurichberg.mp4:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/030_Zurichberg.mp4
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    031_HotelZurichberg.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/031_HotelZurichberg.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    032_CalmPark.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/032_CalmPark.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    033_FIFA.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/033_FIFA.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    034_IceRink.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/034_IceRink.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    035_WaterFountain.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/035_WaterFountain.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    036_UetlibergStart.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/036_UetlibergStart.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    037_UetlibergView1.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/037_UetlibergView1.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    038_UetlibergStairs.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/038_UetlibergStairs.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    039_UetlibergTop.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/039_UetlibergTop.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    040_UetlibergBackDown.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/040_UetlibergBackDown.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    del81117_151744.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/zurich/del81117_151744.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+

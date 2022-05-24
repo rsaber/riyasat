@@ -1,0 +1,137 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Melbourne, Australia
+contents:
+  title: Melbourne, Australia
+  camera: iPhone 13 Pro Max
+  date: Various
+  description: These photos are taken over the course of many trips to Melbourne.
+  entries:
+    CitySunrise.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/CitySunrise.jpg
+      caption: Sunrise over Melbourne
+      subcaption: Taken from my hotel room. Although the hotel was an an industrial
+        area, the views of the city were breathtaking.
+    AssangeGraffiti.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/AssangeGraffiti.jpg
+      caption: Graffiti of Assange
+      subcaption: No shortage of graffiti in Melbourne CBD.
+    BuildingOutside.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/BuildingOutside.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    CarAtMusuem.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/CarAtMusuem.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    China.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/China.jpg
+      caption: Chinatown
+      subcaption: Melbourne Chinatown houses ...[?]
+    Chinatown.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/Chinatown.jpg
+      caption: Foodie Alley in Chinatown
+      subcaption: No shortage of Chinese food in Melbourne CBD
+    City.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/City.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    Cricketer.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/Cricketer.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    FedSquare.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/FedSquare.jpg
+      caption: Federation Square
+      subcaption: TetsUbstUpcaton
+    FlindersStStation.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/FlindersStStation.jpg
+      caption: Flinders St Station
+      subcaption: One of the Central train stations in Melbourne
+    King.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/King.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    KingsPark.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/KingsPark.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    LithuanianBridge.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/LithuanianBridge.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    MonumentOnYarra.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/MonumentOnYarra.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    MoonAtFedSquare.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/MoonAtFedSquare.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    MoonAtFedSquareWide.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/MoonAtFedSquareWide.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    MuesuemOfA.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/MuesuemOfA.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    NGV.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/NGV.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    OperaHouseNearKingsPark.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/OperaHouseNearKingsPark.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    QueenVictoriaInKingsPark.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/QueenVictoriaInKingsPark.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    RodLaverArenaCourt.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/RodLaverArenaCourt.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    RodLaverFace.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/RodLaverFace.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    SBS.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/SBS.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    StateLibrary.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/StateLibrary.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    Yarra.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/melbourne/Yarra.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+

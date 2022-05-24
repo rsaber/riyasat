@@ -1,0 +1,267 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Madrid, Spain
+contents:
+  title: Madrid, Spain
+  camera: Samsung S9+
+  date: Early February 2019
+  description: A weekend trip to Madrid. Cheap tickets from Stansted, and a weekend
+    of sun.
+  entries:
+    000_RoyalHombreGardens.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/000_RoyalHombreGardens.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    001_MadridAirport.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/001_MadridAirport.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    002_BastardoHostel.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/002_BastardoHostel.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    003_CityTimesSquare.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/003_CityTimesSquare.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    004_SanBernadoMetro.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/004_SanBernadoMetro.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    005_ClockTower.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/005_ClockTower.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    006_Horse.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/006_Horse.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    007_Building1.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/007_Building1.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    008_Metropolis.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/008_Metropolis.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    009_Sepblac.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/009_Sepblac.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    010_PlazaDeCibeles.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/010_PlazaDeCibeles.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    011_TeatroReal.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/011_TeatroReal.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    012_AlmudenaFromPalace.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/012_AlmudenaFromPalace.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    013_Almudena.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/013_Almudena.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    014_Palace.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/014_Palace.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    015_PalaceHorse.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/015_PalaceHorse.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    016_InsidePalaceLobby.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/016_InsidePalaceLobby.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    017_InsidePalacePortraits.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/017_InsidePalacePortraits.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    018_InsidePalaceHallway.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/018_InsidePalaceHallway.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    019_InsidePalaceCeilingPainting.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/019_InsidePalaceCeilingPainting.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    020_InsidePalaceCourtyard2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/020_InsidePalaceCourtyard2.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    021_PalaceCourtyard.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/021_PalaceCourtyard.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    022_PalaceParkingLot.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/022_PalaceParkingLot.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    024_RoyalHombreGardens2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/024_RoyalHombreGardens2.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    025_GovernmentBuilding.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/025_GovernmentBuilding.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    026_MonasterioDeLasDescalzasReales.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/026_MonasterioDeLasDescalzasReales.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    027_PlazaDelHelp.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/027_PlazaDelHelp.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    028_MonumentoCervantes.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/028_MonumentoCervantes.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    029_TioPepe.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/029_TioPepe.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    030_Ojalo.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/030_Ojalo.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    031_EstatuaDelTenienteJacintoRuiz.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/031_EstatuaDelTenienteJacintoRuiz.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    032_PuertaDeAlcala.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/032_PuertaDeAlcala.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    033_ParkNearAlfonso.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/033_ParkNearAlfonso.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    034_MonumentoAAlfonsoXII.mp4:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/034_MonumentoAAlfonsoXII.mp4
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    035_CrystalPalace.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/035_CrystalPalace.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    036_InsideCrystalPalace.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/036_InsideCrystalPalace.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    037_LaRosaledaCecilioRodriguez.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/037_LaRosaledaCecilioRodriguez.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    038_FallenAngel.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/038_FallenAngel.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    039_GreenWall.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/039_GreenWall.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    040_SanFranciscoBasilica.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/040_SanFranciscoBasilica.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    041_SanFranciscoBasilicaStatue.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/041_SanFranciscoBasilicaStatue.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    042_SanFranciscoBasilicaInside.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/042_SanFranciscoBasilicaInside.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    043_SanFranciscoBasilicaCeiling.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/043_SanFranciscoBasilicaCeiling.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    044_BigHeadMuseum.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/044_BigHeadMuseum.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    045_BibliotecaYMuseosNacionales.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/045_BibliotecaYMuseosNacionales.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    046_BibliotecaYMuseosNacionalesBuilding.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/046_BibliotecaYMuseosNacionalesBuilding.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    047_NudeStatue.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/047_NudeStatue.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    048_SupremeCourt.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/048_SupremeCourt.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    049_ChurchOfSantaBarbara.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/049_ChurchOfSantaBarbara.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    050_PlazaMayor.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/050_PlazaMayor.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    051_CasaDeCisneros.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/madrid/051_CasaDeCisneros.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+

@@ -9,18 +9,15 @@ buildlist:
   - contents/hamburg.yaml
   - contents/amsterdam.yaml
   - contents/quarantine.yaml
-
-ignore:
-  - contents/placeholder.yaml
-  - contents/unsw.yaml
-  - contents/saap.yaml
   - contents/zurich.yaml
   - contents/madrid.yaml
   - contents/westbaydorset.yaml
   - contents/dc.yaml
   - contents/perth.yaml
   - contents/melbourne.yaml
-  - contents/aboutme.yaml
+
+ignore:
+  - contents/saap.yaml
 
 copy:
  - css

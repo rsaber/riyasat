@@ -1,0 +1,97 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: West Bay, Dorset, United Kingdom
+contents:
+  title: West Bay, Dorset, United Kingdom
+  camera: Samsung S9+
+  date: September 2019
+  description: A short day trip to visit the town where one of my favourite TV shows
+    were filmed, Broadchurch.
+  entries:
+    000OpeningShot.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/000OpeningShot.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    002_TrainStation.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/002_TrainStation.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    003_SouthDorchester.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/003_SouthDorchester.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    004_BaristasInDorchesterSouthb.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/004_BaristasInDorchesterSouthb.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    005_Cliffside.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/005_Cliffside.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    006_Cliffside2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/006_Cliffside2.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    007_WalkngUp.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/007_WalkngUp.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    008_ViewFromCliff.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/008_ViewFromCliff.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    009_DangerSign.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/009_DangerSign.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    010_WalkingDown.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/010_WalkingDown.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    011_FriendsIMade.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/011_FriendsIMade.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    012_ViewOPort:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/012_ViewOPort
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    013_WalkUpNextCliff.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/013_WalkUpNextCliff.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    014_Sign.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/014_Sign.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    015_WidePlains.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/015_WidePlains.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    016_Weymouth.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/016_Weymouth.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+    018_WeymouthBeach.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/westbaydorset/018_WeymouthBeach.jpg
+      caption: TestCaption
+      subcaption: TetsUbstUpcaton
+
