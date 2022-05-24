@@ -29,7 +29,6 @@
       {% elif type == "article" %}
           {% from "article.jinja" import article %}
 
-          {{ title(contents.title, "", contents.date, contents.description) }}
           {{ article(contents.markdown) }}
       {% endif %}
 
