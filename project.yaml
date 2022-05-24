@@ -14,8 +14,6 @@ buildlist:
   - contents/dc.yaml
   - contents/perth.yaml
   - contents/melbourne.yaml
-
-ignore:
   - contents/saap.yaml
 
 copy:

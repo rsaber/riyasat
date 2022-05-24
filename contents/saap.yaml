@@ -1,0 +1,63 @@
+template: main.jinja
+
+navbar: !include header.yaml
+
+title: SaaP
+type: article
+
+contents:
+    title: SaaP - Software as a Passion
+    date: June 2020
+    markdown: |
+        
+        Riyasat, age 9. Armed with a pirated version of GameMaker 6, I made my first foray into software engineering. I just wanted to make fun games, and I enjoyed making them more than playing them. Little did I know that would ignite a passion that would turn this hobby into a career.
+
+        # Playin' Games and Makin' Games
+
+        Most of my favourite childhood memories involved video games, I distinctly remember hopping behind my CRT 17 inch monitor, firing up Pokemon Ruby on VisualBoyAdvance, hacking away with GameShark codes. It wasn't just playing games, it was also breaking them. GameShark codes were 32 character long hexadecimal codes that would inject data into pieces of memory on the GameBoy.  If you knew where your health was stored, you could insert 100% health into that slot in memory every frame, making you invincible. If you knew where the boolean that determined if you collided with an obstacle, you could noclip through all the walls. You could face your first Pokemon battle without Oak having given you a Charmander. It was an incredible amount of fun, cheating, hacking, breaking the game, and redoing it to see if it was a deterministic process. 
+
+        I felt that if I broke the game enough, I could figure out how it worked, and maybe one day, build my own. Of course, at the age of 8 or 9 my programming skills were absolute dogshit, and to be entirely honest with you, I don't think I had the mental capacity to really even learn how to code. I was a bit of a late bloomer on that one.
+
+        # Entering the Dungeon: GameMaker
+
+        My brother had pirated a copy of GameMaker, and back in those days, it wasn't a well developed IDE like it is today. It was written and maintained by just one man, Mark Overmars, and provided a framework and IDE to make 2 dimensional games (or 3 dimensional if you could figure out the 'Doom' way of rendering 3d), with little to no coding. You would build flowcharts out of smaller control-block statements. If 'UP' is clicked: character.velocity.y++ . Very primitive, but very intuitive for a nine year old. This was the beginning of the  very first fully fledged game I built was with my brother: *Shadow the Ghost*. Don't judge the name, it sounded super bad-ass at the time. A top-down pacman style game where you flew around the screen, avoiding enemies and picking up coins. I went around school showing all my friends, even showing my teacher too. The loading screen was a graphic of Illidin from Warcraft 3, hyping up the game to be at least on par with a Blizzard-quality world-class best seller, only to be disappointed by a 16x16 pixel ghost, flying across a pixilated barren desert collecting coins.
+
+        Nevertheless, I was proud of that. It was something I wrote (with plenty of math help from my brother), and through the sheer ability of writing some code, moving control block statements into a flow chart, and creating very lousy pixel art in Microsoft Paint, I had something tangible. I was hooked.
+
+        The next few years of my childhood revolved around the same thing. Some productive tools, but mostly games. The next fully fledged game I developed was "Skydive", an iOS game I built from entirely scratch at age 14. I was intoxicated by the success stories of Doodle Jump and Trism, I was sure that, given a Mac, I could accomplish the same thing. Months of nagging my Dad for an 2011 27" iMac later, he had bought one. Just for me. Quite a miracle to be honest, I didn't expect my Dad to believe in my iOS game developing dreams. I installed Xcode, following `raywenderlich.com` tutorials on Cocos2d and Box2d, and got straight to work.
+
+        My game wasn't going to be some pet project though, it was going to become a best seller on the app store. I was going to lift my family out of their suburban Sydney middle-class life, all the way to millionaire status. Armed with a pirated copy of Adobe Illustrator CS5, I created comic-like sprites of skydivers without a parachute. The premise of Skydive was very similar to Doodle Jump, but instead of climbing up, you would be falling down. Without a parachute, it's only a matter of time until you met the Earth at terminal velocity, but the freefall would feel eternal. That feeling I wanted to present. You would fall forever, and you would need to dodge birds and spiky platforms (don't ask).
+
+        I made the game but that's as far as I got. To publish to the App Store, you need to fork out $100 every year.. And let's face it, even I knew back then it was unlikely I would recoup my investment. The game was also riddled with bugs. Play too long and the phone would crash, because I hadn't been introduced to the idea of deallocation. On the game screen, technically you wouldn't be falling, rather the clouds would be rising. The character's position would be controlled by the iPhone's accelerometer, with the screen's dimensions being the bounding box. Each cloud was generated randomly below the bottom of the screen. After they had left the top of the screen they would float on forever. I'd forgotten all about them! I thought, well, it's out of the screen, any smart compiler or toolkit would just stop rendering it. Why should I have to worry about what's allocated and what isn't?
+
+        Unfortunately, I no longer have the source code. I didn't know what `git` was at the time, nor did I know about Github. Maybe it's on an old hard drive somewhere, and if I ever find it, I'll be sure to post it, no matter how embarrassing the code is.
+
+        # A Viable Career Option?
+
+        After graduating high school, I had a tough decision to make. Money? Or passion? The only thing on my mind at that point was money, and I was close to choosing Petroleum engineering as my major. Oil rich Arab Sheikh's would fund a lavish tax-free life in Dubai. All you had to do was tell them where some black sludge was? Sign me up! However, discovering the cartel that is OPEC, I realised that leaving my career and livelihood in the hands of ultra-wealthy oligarchs and sheikhs was probably not the best idea. One sweeping decision from them to cut production, and bam! I'm on Centrelink.
+
+        Software back then didn't seem like a lucrative option. Of course, I knew nothing about the FAANG culture nor the inflated Bay Area salaries to change the colour of a `<button>`. I chose the safer option, Electrical Engineering. I'd become a power engineer at Ausgrid, and live a peaceful life. Maybe not ludicrously rich, but still very well off.
+
+        # COMP1917: Introduction to Computing 1 
+
+        The first year of engineering consisted of the same few core courses, one of which was a computing elective. Electrical engineers have the option of doing Lower Computing or Higher Computing, and knowing what a hotshot (I thought I was) at writing code, I opted for Higher Computing. The course was entirely in `C90`, and I fell in love. Now all the StackOverflow tutorials I had read started to make sense. Writing code seemed all of a sudden more rigid, rather than the spaghetti mess I had thrown onto my screen in the years before. The labs were a blast, I enjoyed every moment of them. My tutor was Peter Kydd, a chef turned software engineer, who seemed to leak enthusiasm. It was infectious. At that point, I knew, I wanted to do this. It still took me another semester of electrical engineering and suffering through "Circuits and Signals" to realise that I hated electrical engineering. Breadboards were fiddly. Imaginary numbers made no sense. Solving integrals got boring. Code though, code was fun.
+
+        Throughout the next three and a half years, I did a few minor side projects, but nothing substantial. Mainly focused around polishing my resume, my projects were all productivity based. I hadn't made another game, and had no plans to.
+
+        # Grinding Interviews and Hacking Side Projects 
+
+        As anyone who studied computer science knows, the interview process is a little different. It's far more merit based, with a healthy chunk of the interview time dedicated to solving algorithmic problems. The only way to get good at them is to grind plenty of questions and after seeing enough of them, you start to realise that with a few basic data structures underneath your belt, you can accomplish anything in O(1). I can't say that I didn't enjoy the grind, the same way you can imagine a law student combing through technicalities or a mathematician solving integrals. But, there was nothing concrete to show for it, nothing I had built, no benefit to the world. It just getting smarter for the sake of getting smarter.
+
+        
+        # Munging Data and Decisions - My First Job
+
+        My very first job in industry (other than tutoring at uni) was working as a Data Scientist at a web-tech company based in Sydney. Paired with a mentor, with zero SQL knowledge under my belt, I set out to munge data. Basically, I was meant to be a very expensive way to figure out what decision to make. Do green buttons make us more money? Do less options in drop-down boxes have a higher user retention? If we remove the back button, is it more likely they'll follow through with their transaction? 
+
+        Although data science turned out not to be my cuppa, I came out with a good sense of the industry. I also had the opportunity to transition into more of a software engineering role, and realised I had already found my true calling.
+
+        # Foray into Finance - Managing Risk and Pricing Derivatives
+
+        In my final semester of university, I had applied for a graduate position in a financial company overseas, and much to my pleasure, I had gotten the job. I moved in mid 2018, and was completely overwhelmed by the lack of domain knowledge I had. I was in a foreign city, with no friends or family, in a job I felt vastly under qualified for. To be honest, at that point, I didn't even know what I really wanted to do. All I knew was I wanted to do software engineering. My friends were at Google and Facebook, some working on really interesting features, other writing documentation for Kotlin. In my first year in industry, I explored as much of fin-tech as I could. I initially thought that, being a proficient C developer, I would've loved to do some high performance C++, where every second counts, and I'd be able to brag about my niche knowledge of `clang` compiler optimisations. That dream solely faded away, not because it wasn't an interesting dream, but rather, another took its place. Quantitative finance. 
+
+        I had a coffee with a total stranger at work, who told me about what his team does. "Derivatives Pricing Technology" he said. To really sell what he does he sent me a paper written by Simon Peyton Jones, *Composing Contracts: An Adventure in Financial Engineering*. A sort of domain specific language within Haskell to compose any derivative you want. "That's what we do, and then we price them". I was keen. I spent more time reading about it, buying Sheldon Nateberg's  *Option volatility and pricing strategies*. Not as thrilling as Michael Lewis' *Flash Boys*, but still a solid foundation for what was to be my next big step. 
+
