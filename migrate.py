@@ -17,10 +17,24 @@ for entry in parsed['entries']:
 
     just_entries[key]['type'] =  entry['type']
     just_entries[key]['link'] = f"{n['base']}/{n['bucket']}/{n['file']}"
-    just_entries[key]['caption'] =  entry['caption']
-    just_entries[key]['subcaption'] =  entry['subcaption']
+    just_entries[key]['caption'] = entry['caption'] if 'caption' in entry else False
+    just_entries[key]['subcaption'] =  entry['subcaption'] if 'subcaption' in entry else False
 
     del entry['netlify_file']
 
-as_yaml = yaml.dump(just_entries, sort_keys=False)
+full_dict = {
+    "template": "main.jinja",
+    "navbar": "!include header.yaml",
+    "type": "photojournal",
+    "title": parsed['title'],
+    "contents": {
+        "title": parsed['title'],
+        "camera": parsed['camera'],
+        "date": parsed['date'],
+        "description": parsed['description'],
+        "entries": just_entries
+    }
+}
+
+as_yaml = yaml.dump(full_dict, sort_keys=False)
 print(as_yaml)
