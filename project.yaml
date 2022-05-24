@@ -1,4 +1,5 @@
 buildlist:
+  - contents/index.yaml
   - contents/leavingforlondon.yaml
   - contents/unsw.yaml
   - contents/aboutme.yaml
