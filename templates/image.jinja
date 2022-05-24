@@ -6,8 +6,16 @@
   </div>
   <div class="row">
     <div class="twelve column">
-      <p class="photojournal-image-caption">{{caption}}</p>
-      <p class="photojournal-image-subcaption">{{subcaption}}</p>
+      <p class="photojournal-image-caption">
+      {% if caption %}
+        {{caption}}
+      {% endif %}
+      </p>
+      <p class="photojournal-image-subcaption">
+      {% if subcaption %}
+        {{subcaption}}
+      {% endif %}
+      </p>
     </div>
   </div>
 {% endmacro %}
