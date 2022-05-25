@@ -21,12 +21,12 @@ categories:
     Projects:
         Anvil: https://github.com/rsaber/anvil 
         Password Generator: http://pw.riyas.at
-        Arrowthumb: contents/placeholder.yaml
-        Bloomberg Keyboard M: contents/placeholder.yaml
+        # Arrowthumb: contents/placeholder.yaml
+        # Bloomberg Keyboard M: contents/placeholder.yaml
     About:
         Me: contents/index.yaml
-        Resume: contents/placeholder.yaml
+        # Resume: contents/placeholder.yaml
         GitHub: https://github.com/rsaber
         LinkedIn: https://linkedin.com/in/riyasat-saber
-        PGP: contents/placeholder.yaml
+        # PGP: contents/placeholder.yaml
 
