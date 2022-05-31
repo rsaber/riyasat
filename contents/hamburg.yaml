@@ -2,16 +2,150 @@ template: main.jinja
 navbar: !include header.yaml
 type: photojournal
 title: Hamburg, Germany
-
 contents:
   title: Hamburg, Germany
-  camera: Samsung S9+
-  date: FillIn
-  description: A rainy day trip to Hamburg, home of the Hamburger.
+  camera: Samsung S9+ 
+  date: Early November 2018 
+  description: "A hectic day trip: left my flat at 3am Saturday for a Stansted flight, returned at 12am Sunday. A real day trip. A shame about the terrible weather."
   entries:
-    RijkMusuem.jpe:
+    RyanAir.jpg:
       type: image
-      link: https://lens-img-alpha.netlify.app/amsterdam/RijkMusuem.jpe
+      link: https://lens-img-alpha.netlify.app/hamburg/RyanAir.jpg
       caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      subcaption: TestSubcaption
+    GermanyAirport.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/GermanyAirport.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    HamburgAirportStation.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/HamburgAirportStation.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Street.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Street.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    MusuemFurKun.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/MusuemFurKun.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Plaza.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Plaza.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    HausAlstethor.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/HausAlstethor.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    TrafficLightTimer.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/TrafficLightTimer.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Ducks.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Ducks.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Water.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Water.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    StreetSign.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/StreetSign.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    EuropaPassage.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/EuropaPassage.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Clocktower.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Clocktower.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    StNikolaiOldTower.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/StNikolaiOldTower.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Tower2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Tower2.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    RainyChurchGrounds.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/RainyChurchGrounds.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    EuropeanStatueAndMan.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/EuropeanStatueAndMan.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Street2.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Street2.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    view_from_StNikolai.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/view_from_StNikolai.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    PlazaRainy.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/PlazaRainy.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    ww1monument.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/ww1monument.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    lion.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/lion.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Fountain.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Fountain.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    holocaustplaque.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/holocaustplaque.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Arch.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Arch.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    LoveLocks.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/LoveLocks.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Dock.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/Dock.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    ? ''
+    : type: image
+      link: https://lens-img-alpha.netlify.app/hamburg/
+      caption: TestCaption
+      subcaption: TestSubcaption
 
