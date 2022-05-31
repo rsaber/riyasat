@@ -143,9 +143,4 @@ contents:
       link: https://lens-img-alpha.netlify.app/hamburg/Dock.jpg
       caption: TestCaption
       subcaption: TestSubcaption
-    ? ''
-    : type: image
-      link: https://lens-img-alpha.netlify.app/hamburg/
-      caption: TestCaption
-      subcaption: TestSubcaption
 
