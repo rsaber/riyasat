@@ -11,8 +11,8 @@ categories:
         Oxford: contents/oxford.yaml
         Cambridge: contents/cambridge.yaml
         Hamburg: contents/hamburg.yaml
-        Amsterdam: contents/amsterdam.yaml
         Zurich: contents/zurich.yaml
+        Amsterdam: contents/amsterdam.yaml
         Madrid: contents/madrid.yaml
         West Bay Dorset: contents/westbaydorset.yaml
         Washington DC: contents/dc.yaml
