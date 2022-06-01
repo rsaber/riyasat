@@ -1,0 +1,99 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Sydney in Lockdown
+contents:
+  title: Sydney in Lockdown
+  camera: Samsung S9+ 
+  date: Late September 2021
+  description: Sydney's second COVID lockdown due to a failure of hotel quarantine, that I have lovingly named Afgladystan. 
+  entries:
+    EmptyOperaHouse.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/EmptyOperaHouse.jpg
+      caption: Opera House 
+      subcaption: The emptiest the Opera House will ever be in our lifetimes. 
+    HarbourBridge.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/HarbourBridge.jpg
+    CentralLightRail.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/CentralLightRail.jpg
+      caption: Central Light Rail Station
+    GraffitiAlleyway.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/GraffitiAlleyway.jpg
+      caption: Graffiti in the Hipster Part of Sydney 
+    CentralPark.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/CentralPark.jpg
+      caption: Prince Alfred Park
+    891Bus.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/891Bus.jpg
+      caption: 891 Bus Stop
+      subcaption: Memories of waiting in line for the bus to Uni.
+    WorldSquareRoad.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/WorldSquareRoad.jpg
+    TownHallLightRail.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/TownHallLightRail.jpg
+      caption: Town Hall Light Rail Station 
+    QVB.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/QVB.jpg
+      caption: Queen Victoria Building 
+      subcaption: A heritage listed older-than-federation shopping centre in the heart of the city. 
+    LVMaxMara.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/LVMaxMara.jpg
+    BarackSt.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/BarackSt.jpg
+    SaluteTree.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/SaluteTree.jpg
+    WynyardLululemon.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/WynyardLululemon.jpg
+      caption: Wynyard Station 
+    EmptyRoad.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/EmptyRoad.jpg
+    GrosvenorOutside.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/GrosvenorOutside.jpg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    SkyscraperInProgress.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/SkyscraperInProgress.jpg
+      caption: Skyscraper Mid Construction 
+      subcaption: Construction halted during lockdown, this skyscraper-to-be is a rare sight in Sydney.
+    CircularQuayLightRail.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/CircularQuayLightRail.jpg
+      caption: Circular Quay Light Rail 
+    MCA.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/MCA.jpg
+      caption: Musuem of Contemporary Art 
+      subcaption: I really don't understand the stuff in here. But when I do go, I look around and nod as if I do. 
+    OverseasPassengerTerminal.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/OverseasPassengerTerminal.jpg
+      caption: Sydney Cove Overseas Passenger Terminal 
+    OperaHouse.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/OperaHouse.jpg
+      caption: Opera House 
+    Ferries.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/Ferries.jpg
+      caption: Ferries at Circular Quay 
+    AMPBuilding.jpg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/sydneyinlockdown/AMPBuilding.jpg
+      caption: AMP Building 
+
