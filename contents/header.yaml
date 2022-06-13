@@ -18,7 +18,7 @@ categories:
         Washington DC: contents/dc.yaml
         Perth: contents/perth.yaml
         Melbourne: contents/melbourne.yaml
-        # Daylesford: contents/daylesford.yaml
+        Daylesford: contents/daylesford.yaml
     Projects:
         Anvil: https://github.com/rsaber/anvil 
         Password Generator: http://pw.riyas.at

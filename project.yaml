@@ -16,6 +16,7 @@ buildlist:
   - contents/melbourne.yaml
   - contents/saap.yaml
   - contents/sydneyinlockdown.yaml
+  - contents/daylesford.yaml
 
 copy:
  - css
