@@ -14,12 +14,10 @@ contents:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/BridgeInKingsParkBotanicalGarden.jpg
       caption: Bridge in Kings Park Botanical Garden
-      subcaption: ''
     CitySunrise.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/CitySunrise.jpg
       caption: Sunrise over the City
-      subcaption: false
     EarlyMorningBridge.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/EarlyMorningBridge.jpg
@@ -29,38 +27,30 @@ contents:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/EmptySkyscraper.jpg
       caption: Empty Skyscraper
-      subcaption: An odd thing about Perth that you don't see in other bigger cities
-        - empty lots for skyscrapers.
+      subcaption: An odd thing about Perth that you don't see in other bigger cities - empty lots for skyscrapers.
     KingsParkMonument.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/KingsParkMonument.jpg
       caption: Monument at Kings Park
-      subcaption: false
     LordForrest.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/LordForrest.jpg
       caption: Lord Forrest
-      subcaption: TetsUbstUpcaton
     Monument.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/Monument.jpg
       caption: Monument
-      subcaption: TetsUbstUpcaton
     NamesOfFallen.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/NamesOfFallen.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      caption: Names of Fallen Soldiers 
     QueenVictoria.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/QueenVictoria.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      caption: Statue of Queen Victoria 
     Road.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/Road.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
     RoyalMint.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/RoyalMint.jpg
@@ -69,33 +59,26 @@ contents:
     SomeCatheral.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/SomeCatheral.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      caption: A Cathedral in Central Perth 
     StreetAdelaide.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/StreetAdelaide.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      caption: Adelaide St 
+      subcaption: Just thought it was funny 
     Trees.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/Trees.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
     UWA.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/UWA.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      caption: University of Western Australia 
     WABonaticalGarden.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/WABonaticalGarden.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
+      caption: Entrance of Western Australia Bontanical Gardens
     Water.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/Water.jpg
-      caption: TestCaption
-      subcaption: TetsUbstUpcaton
     WaterFountain.jpg:
       type: image
       link: https://lens-img-alpha.netlify.app/perth/WaterFountain.jpg
