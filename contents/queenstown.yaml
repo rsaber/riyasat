@@ -1,0 +1,86 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Queenstown
+contents:
+  title: Queenstown, New Zealand
+  camera: iPhone 13 Pro Max 
+  date: Early August 2022 
+  description: Gardening trip through New Zealand
+  entries:
+    CityFromAbove.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/CityFromAbove.jpeg
+      caption: Queenstown from Above 
+    Lakeside.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/Lakeside.jpeg 
+      caption: Lake Wakatipu 
+    LakesideParkrun.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/LakesideParkrun.jpeg 
+      caption: Parkside run along Lake Wakatipu 
+    PatagoniaIcecream.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/PatagoniaIcecream.jpeg 
+      caption: Patagonia Ice Cream 
+      subcaption: No, not the one in South America 
+    Church.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/Church.jpeg
+      caption: Church 
+      subcaption: A nice relic from the past.
+    City.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/City.jpeg
+      caption: City Square 
+      subcaption: Filled with tourists, with a surprising nightlife? Didn't expect that. 
+    QueenstownGardenStatue.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/QueenstownGardenStatue.jpeg
+      caption: Statue in Queenstown Garden 
+    DogInGarden.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/DogInGarden.jpeg 
+      caption: Sculpture of Dog in Queenstown Gardens 
+    Memorial.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/Memorial.jpeg
+      caption: Memorial to Fallen WW1 Soldiers 
+    GraveyardNearSkyline.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/GraveyardNearSkyline.jpeg
+      caption: Graveyard 
+      subcaption: An odd place for a graveyard, right across from the gondolas to take you up the mountain. 
+    Gondola.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/Gondola.jpeg
+      caption: Gondola upto Queenstown Skyline 
+    InsideGondola.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/InsideGondola.jpeg
+      caption: Inside the Gondola 
+      subcaption: NZD $46 for a return trip.
+    Luge.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/Luge.jpeg
+      caption: Luge Rides 
+      subcaption: High velocity luge rides down a subset of the mountain. Not my cuppa. 
+    Mountain.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/Mountain.jpeg
+    Paragliding.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/Paragliding.jpeg
+      caption: Paragliding off the mountain. 
+      subcaption: Also not my cuppa. 
+    SnowyTop.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/SnowyTop.jpeg
+    View0.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/View0.jpeg
+    View1.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/View1.jpeg
+

@@ -19,6 +19,7 @@ categories:
         Perth: contents/perth.yaml
         Melbourne: contents/melbourne.yaml
         Daylesford: contents/daylesford.yaml
+        Queenstown: contents/queenstown.yaml
     Projects:
         Anvil: https://github.com/rsaber/anvil 
         Password Generator: http://pw.riyas.at
