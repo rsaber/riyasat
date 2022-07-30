@@ -1,0 +1,96 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Newcastle, New South Wales, Australia
+contents:
+  title: Newcastle, New South Wales, Australia
+  camera: iPhone 13 Pro Max 
+  date: Mid Feburary 2022 
+  description: Post COVID Lockdown Weekend Trip
+  entries:
+    RockySeaside.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/RockySeaside.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Paragliding.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/Paragliding.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    BuildingScaffolding.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/BuildingScaffolding.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Car.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/Car.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Cthulu.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/Cthulu.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    KingEdwardPark.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/KingEdwardPark.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    ManStatue.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/ManStatue.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    PathwayUp.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/PathwayUp.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    GarsideGardens.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/GarsideGardens.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    FortScratchley.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/FortScratchley.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    SomeArmyShit.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/SomeArmyShit.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Cannon.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/Cannon.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    Beach.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/Beach.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    ArmsInPool.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/ArmsInPool.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    WindowsXP.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/WindowsXP.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    ParagliderInSky.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/ParagliderInSky.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+    OldAndNewBuilding.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/newcastle/OldAndNewBuilding.jpeg
+      caption: TestCaption
+      subcaption: TestSubcaption
+
