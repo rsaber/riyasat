@@ -1,0 +1,81 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Milford Sound, New Zealand 
+contents:
+  title: Milford Sound, New Zealand
+  camera: iPhone 13 Pro Max 
+  date: Early August 2022 
+  description: Guided tour trip from Queenstown, through Te Anau to Piopiotahi.
+  entries:
+    IMG_3468_DriveToTeAnau.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3468_DriveToTeAnau.jpeg
+      caption: IMG_3468_DriveToTeAnau.jpeg
+      subcaption: TestSubcaption
+    IMG_3476_AlpacaAtTeAnauCafe.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3476_AlpacaAtTeAnauCafe.jpeg
+      caption: IMG_3476_AlpacaAtTeAnauCafe.jpeg
+      subcaption: TestSubcaption
+    IMG_3482_FiordlandNationalPark.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3482_FiordlandNationalPark.jpeg
+      caption: IMG_3482_FiordlandNationalPark.jpeg
+      subcaption: TestSubcaption
+    IMG_3507_MirrorLakes.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3507_MirrorLakes.jpeg
+      caption: IMG_3507_MirrorLakes.jpeg
+      subcaption: TestSubcaption
+    IMG_3512_MaoriPepper.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3512_MaoriPepper.jpeg
+      caption: IMG_3512_MaoriPepper.jpeg
+      subcaption: TestSubcaption
+    IMG_3522_Lake.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3522_Lake.jpeg
+      caption: IMG_3522_Lake.jpeg
+      subcaption: TestSubcaption
+    IMG_3527_Mountain.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3527_Mountain.jpeg
+      caption: IMG_3527_Mountain.jpeg
+      subcaption: TestSubcaption
+    IMG_3548_Mountain.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3548_Mountain.jpeg
+      caption: IMG_3548_Mountain.jpeg
+      subcaption: TestSubcaption
+    IMG_3568_Kia.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3568_Kia.jpeg
+      caption: IMG_3568_Kia.jpeg
+      subcaption: TestSubcaption
+    IMG_3626_MilfordSoundFromCruise.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3626_MilfordSoundFromCruise.jpeg
+      caption: IMG_3626_MilfordSoundFromCruise.jpeg
+      subcaption: TestSubcaption
+    IMG_3652_MilfordSound.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3652_MilfordSound.jpeg
+      caption: IMG_3652_MilfordSound.jpeg
+      subcaption: TestSubcaption
+    IMG_3709_Waterfall.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3709_Waterfall.jpeg
+      caption: IMG_3709_Waterfall.jpeg
+      subcaption: TestSubcaption
+    IMG_3737_Tunnel18.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3737_Tunnel18.jpeg
+      caption: IMG_3737_Tunnel18.jpeg
+      subcaption: TestSubcaption
+    IMG_3741_OnTheRoad.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/milfordsound/IMG_3741_OnTheRoad.jpeg
+      caption: IMG_3741_OnTheRoad.jpeg
+      subcaption: TestSubcaption
+

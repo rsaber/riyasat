@@ -19,6 +19,7 @@ buildlist:
   - contents/newcastle.yaml
   - contents/daylesford.yaml
   - contents/queenstown.yaml
+  - contents/milfordsound.yaml
 
 copy:
  - css
