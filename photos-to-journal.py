@@ -15,7 +15,7 @@ for imagename in imagenames:
 
     just_entries[key]['type'] = "image"
     just_entries[key]['link'] = f"https://lens-img-alpha.netlify.app/{file}/{imagename.strip()}"
-    just_entries[key]['caption'] = "TestCaption"
+    just_entries[key]['caption'] = imagename.strip()
     just_entries[key]['subcaption'] = "TestSubcaption"
 
 full_dict = {
