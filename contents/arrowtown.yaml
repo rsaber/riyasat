@@ -1,0 +1,111 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Arrowtown, New Zealand
+contents:
+  title: Arrowtown, New Zealand
+  camera: iPhone 13 Pro Max 
+  date: Early August 2022 
+  description: A quick day-trip back in time to the days of gold panning and racism against the Chinese. Almost like a modern day Queensland. 
+  entries:
+    IMG_3770_LakesDistrictMusuem.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3770_LakesDistrictMusuem.jpeg
+      caption: IMG_3770_LakesDistrictMusuem.jpeg
+      subcaption: TestSubcaption
+    IMG_3781_City.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3781_City.jpeg
+      caption: IMG_3781_City.jpeg
+      subcaption: TestSubcaption
+    IMG_3785_GoldNugget.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3785_GoldNugget.jpeg
+      caption: IMG_3785_GoldNugget.jpeg
+      subcaption: TestSubcaption
+    IMG_3787_PoliceHEIC.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3787_PoliceHEIC.jpeg
+      caption: IMG_3787_PoliceHEIC.jpeg
+      subcaption: TestSubcaption
+    IMG_3789_Placard.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3789_Placard.jpeg
+      caption: IMG_3789_Placard.jpeg
+      subcaption: TestSubcaption
+    IMG_3793_River.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3793_River.jpeg
+      caption: IMG_3793_River.jpeg
+      subcaption: TestSubcaption
+    IMG_3836_BackAlley.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3836_BackAlley.jpeg
+      caption: IMG_3836_BackAlley.jpeg
+      subcaption: TestSubcaption
+    IMG_3842_TownCentre.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3842_TownCentre.jpeg
+      caption: IMG_3842_TownCentre.jpeg
+      subcaption: TestSubcaption
+    IMG_3862_ChineseSettlement.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3862_ChineseSettlement.jpeg
+      caption: IMG_3862_ChineseSettlement.jpeg
+      subcaption: TestSubcaption
+    IMG_3865_AhLumShitter.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3865_AhLumShitter.jpeg
+      caption: IMG_3865_AhLumShitter.jpeg
+      subcaption: TestSubcaption
+    IMG_3868_AhLumStoreHouse.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3868_AhLumStoreHouse.jpeg
+      caption: IMG_3868_AhLumStoreHouse.jpeg
+      subcaption: TestSubcaption
+    IMG_3876_AhLumInside.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3876_AhLumInside.jpeg
+      caption: IMG_3876_AhLumInside.jpeg
+      subcaption: TestSubcaption
+    IMG_3887_ChineseHut.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3887_ChineseHut.jpeg
+      caption: IMG_3887_ChineseHut.jpeg
+      subcaption: TestSubcaption
+    IMG_3888_ChineseHut2.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3888_ChineseHut2.jpeg
+      caption: IMG_3888_ChineseHut2.jpeg
+      subcaption: TestSubcaption
+    IMG_3889_InsideChineseHut2JazzMusicVideo.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3889_InsideChineseHut2JazzMusicVideo.jpeg
+      caption: IMG_3889_InsideChineseHut2JazzMusicVideo.jpeg
+      subcaption: TestSubcaption
+    IMG_3893_ChineseHut3.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3893_ChineseHut3.jpeg
+      caption: IMG_3893_ChineseHut3.jpeg
+      subcaption: TestSubcaption
+    IMG_3898_ChineseHut4.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3898_ChineseHut4.jpeg
+      caption: IMG_3898_ChineseHut4.jpeg
+      subcaption: TestSubcaption
+    IMG_3901_ChineseHut5.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3901_ChineseHut5.jpeg
+      caption: IMG_3901_ChineseHut5.jpeg
+      subcaption: TestSubcaption
+    IMG_3912_PharmacyLogo.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3912_PharmacyLogo.jpeg
+      caption: IMG_3912_PharmacyLogo.jpeg
+      subcaption: TestSubcaption
+    IMG_3917_GoldieCoffee.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/arrowtown/IMG_3917_GoldieCoffee.jpeg
+      caption: IMG_3917_GoldieCoffee.jpeg
+      subcaption: TestSubcaption
+

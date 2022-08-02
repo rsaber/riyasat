@@ -22,6 +22,7 @@ categories:
         Daylesford: contents/daylesford.yaml
         Queenstown: contents/queenstown.yaml
         Milford Sound: contents/milfordsound.yaml
+        Arrowtown: contents/arrowtown.yaml
     Projects:
         Anvil: https://github.com/rsaber/anvil 
         Password Generator: http://pw.riyas.at
