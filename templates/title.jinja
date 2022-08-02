@@ -1,8 +1,9 @@
-{% macro title(title, camera, date, description) %}
+{% macro title(title, meta1, camera, date, description) %}
 
 <div class="row">
     <div class="twelve column" style="margin-top: 1%">
         <h1 class="photojournal-title">{{title}}</h1>
+        <p class="photojournal-metadata">{{meta1}}</p>
         <p class="photojournal-metadata">{{camera}}</p>
         <p class="photojournal-metadata">{{date}}</p>
         <div class="photojournal-description">

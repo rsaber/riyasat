@@ -25,13 +25,13 @@
       {% if type == "photojournal" %}
           {% from "photojournal.jinja" import photojournal %}
 
-          {{ title(contents.title, contents.camera, contents.date, contents.description) }}
+          {{ title(contents.title, (contents.entries|length) ~ " Photos", contents.camera, contents.date, contents.description) }}
           {{ photojournal(contents.entries)}}
       {% elif type == "article" %}
           {% from "article.jinja" import article %}
         
           {% if contents.title is defined %}
-          {{ title(contents.title, "", contents.date, "") }}
+          {{ title(contents.title, "", "", contents.date, "") }}
           {% endif %}
           {{ article(contents.markdown) }}
       {% endif %}
