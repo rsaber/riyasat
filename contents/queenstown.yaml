@@ -11,7 +11,24 @@ contents:
     CityFromAbove.jpeg:
       type: image
       link: https://lens-img-alpha.netlify.app/queenstown/CityFromAbove.jpeg
-      caption: Queenstown from Above 
+      caption: Queenstown from Skyline Queenstown 
+    Landscape1.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/IMG_4181_Landscape.jpeg 
+      caption: View from Queenstown Hill Summit
+      subcaption: A steep but generally trivial climb up Queenstown Hill. Overall took about an hour for me to climb up.
+    Landscape2.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/IMG_4182_Landscape.jpeg 
+      caption: Top of Queenstown Hill Summit
+    Landscape3.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/IMG_4198_Landscape.jpeg 
+      caption: Top of Queenstown Hill Summit
+    Landscape4.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/queenstown/IMG_4217_Landscape.jpeg 
+      caption: Top of Queenstown Hill Summit
     Lakeside.jpeg:
       type: image
       link: https://lens-img-alpha.netlify.app/queenstown/Lakeside.jpeg 
