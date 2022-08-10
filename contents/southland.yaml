@@ -1,0 +1,71 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Southland, New Zealand
+contents:
+  title: Southland, New Zealand
+  camera: iPhone 13 Pro Max 
+  date: Early August 2022 
+  description: A trip through Invercargill, Bluff and Riverton
+  entries:
+    IMG_4280_TheBatch.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4280_TheBatch.jpeg
+      caption: IMG_4280_TheBatch.jpeg
+      subcaption: TestSubcaption
+    IMG_4281_InvercargillRefurbishment.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4281_InvercargillRefurbishment.jpeg
+      caption: IMG_4281_InvercargillRefurbishment.jpeg
+      subcaption: TestSubcaption
+    IMG_4291_BluffSign.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4291_BluffSign.jpeg
+      caption: IMG_4291_BluffSign.jpeg
+      subcaption: TestSubcaption
+    IMG_4304_BluffChain.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4304_BluffChain.jpeg
+      caption: IMG_4304_BluffChain.jpeg
+      subcaption: TestSubcaption
+    IMG_4312_TsunamiLighthouse.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4312_TsunamiLighthouse.jpeg
+      caption: IMG_4312_TsunamiLighthouse.jpeg
+      subcaption: TestSubcaption
+    IMG_4328_MaoriCommunityHousing.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4328_MaoriCommunityHousing.jpeg
+      caption: IMG_4328_MaoriCommunityHousing.jpeg
+      subcaption: TestSubcaption
+    IMG_4332_MaoriMarae.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4332_MaoriMarae.jpeg
+      caption: IMG_4332_MaoriMarae.jpeg
+      subcaption: TestSubcaption
+    IMG_4347_RivertonWalkingTrail.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4347_RivertonWalkingTrail.jpeg
+      caption: IMG_4347_RivertonWalkingTrail.jpeg
+      subcaption: TestSubcaption
+    IMG_4353_RivertonWalkingTrail.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4353_RivertonWalkingTrail.jpeg
+      caption: IMG_4353_RivertonWalkingTrail.jpeg
+      subcaption: TestSubcaption
+    IMG_4354_RivertonWalkingTrail.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4354_RivertonWalkingTrail.jpeg
+      caption: IMG_4354_RivertonWalkingTrail.jpeg
+      subcaption: TestSubcaption
+    IMG_4385_TruckMusuem.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4385_TruckMusuem.jpeg
+      caption: IMG_4385_TruckMusuem.jpeg
+      subcaption: TestSubcaption
+    IMG_4402_Trucks.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/southland/IMG_4402_Trucks.jpeg
+      caption: IMG_4402_Trucks.jpeg
+      subcaption: TestSubcaption
+

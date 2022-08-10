@@ -21,6 +21,7 @@ buildlist:
   - contents/queenstown.yaml
   - contents/milfordsound.yaml
   - contents/arrowtown.yaml
+  - contents/southland.yaml
 
 copy:
  - css
