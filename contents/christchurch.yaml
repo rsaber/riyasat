@@ -1,0 +1,96 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Christchurch, New Zealand 
+contents:
+  title: Christchurch, New Zealand 
+  camera: iPhone 13 Pro Max 
+  date: Early August 2022 
+  description: A lackluster photojournal because unforunately enough, I caught COVID. Spend 7 days in self isolation in a small hotel room, and most of the photos taken are either when I left the room to get a PCR test, or for the brief moment I had post-isolation & pre-flight.
+  entries:
+    IMG_4456.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4456.jpeg
+      caption: IMG_4456.jpeg
+      subcaption: TestSubcaption
+    IMG_4463_BusInterchange.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4463_BusInterchange.jpeg
+      caption: IMG_4463_BusInterchange.jpeg
+      subcaption: TestSubcaption
+    IMG_4532_QuarantineHotel.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4532_QuarantineHotel.jpeg
+      caption: IMG_4532_QuarantineHotel.jpeg
+      subcaption: TestSubcaption
+    IMG_4482_PollutedWater.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4482_PollutedWater.jpeg
+      caption: IMG_4482_PollutedWater.jpeg
+      subcaption: TestSubcaption
+    IMG_4521_Brewery.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4521_Brewery.jpeg
+      caption: IMG_4521_Brewery.jpeg
+      subcaption: TestSubcaption
+    IMG_4547_Decrepit.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4547_Decrepit.jpeg
+      caption: IMG_4547_Decrepit.jpeg
+      subcaption: TestSubcaption
+    IMG_4548_ConcreteBlock.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4548_ConcreteBlock.jpeg
+      caption: IMG_4548_ConcreteBlock.jpeg
+      subcaption: TestSubcaption
+    IMG_4553_OldTram.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4553_OldTram.jpeg
+      caption: IMG_4553_OldTram.jpeg
+      subcaption: TestSubcaption
+    IMG_4556_OldTram.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4556_OldTram.jpeg
+      caption: IMG_4556_OldTram.jpeg
+      subcaption: TestSubcaption
+    IMG_4561_Remembrance.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4561_Remembrance.jpeg
+      caption: IMG_4561_Remembrance.jpeg
+      subcaption: TestSubcaption
+    IMG_4565_Monument.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4565_Monument.jpeg
+      caption: IMG_4565_Monument.jpeg
+      subcaption: TestSubcaption
+    IMG_4567_Cathedral.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4567_Cathedral.jpeg
+      caption: IMG_4567_Cathedral.jpeg
+      subcaption: TestSubcaption
+    IMG_4576_Church2.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4576_Church2.jpeg
+      caption: IMG_4576_Church2.jpeg
+      subcaption: TestSubcaption
+    IMG_4568_Statue.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4568_Statue.jpeg
+      caption: IMG_4568_Statue.jpeg
+      subcaption: TestSubcaption
+    IMG_4571_ConventionCentre.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4571_ConventionCentre.jpeg
+      caption: IMG_4571_ConventionCentre.jpeg
+      subcaption: TestSubcaption
+    IMG_4584_Swing.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4584_Swing.jpeg
+      caption: IMG_4584_Swing.jpeg
+      subcaption: TestSubcaption
+    IMG_4589_Park.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/christchurch/IMG_4589_Park.jpeg
+      caption: IMG_4589_Park.jpeg
+      subcaption: TestSubcaption
+

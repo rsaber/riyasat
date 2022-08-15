@@ -24,6 +24,7 @@ categories:
         Milford Sound: contents/milfordsound.yaml
         Arrowtown: contents/arrowtown.yaml
         Southland: contents/southland.yaml
+        Christchurch: contents/christchurch.yaml
     Projects:
         Anvil: https://github.com/rsaber/anvil 
         Password Generator: http://pw.riyas.at

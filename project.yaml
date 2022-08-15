@@ -22,6 +22,7 @@ buildlist:
   - contents/milfordsound.yaml
   - contents/arrowtown.yaml
   - contents/southland.yaml
+  - contents/christchurch.yaml
 
 copy:
  - css
