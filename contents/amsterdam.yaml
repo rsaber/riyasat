@@ -1,9 +1,9 @@
 template: main.jinja
 navbar: !include header.yaml
 type: photojournal
-title: Amsterdam, The Netherlands
+title: Amsterdam, the Netherlands
 contents:
-  title: Amsterdam, The Netherlands
+  title: Amsterdam, the Netherlands
   camera: Samsung S9+
   date: Early March 2019
   description: A rainy weekend away with two work mates in Amsterdam.

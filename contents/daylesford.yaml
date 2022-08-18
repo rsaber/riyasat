@@ -1,9 +1,9 @@
 template: main.jinja
 navbar: !include header.yaml
 type: photojournal
-title: Daylesford
+title: Daylesford, Victoria
 contents:
-  title: Daylesford
+  title: Daylesford, Victoria
   camera: iPhone 13 Pro Max 
   date: June 2022 
   description: A trip into country Victoria, exploring Daylesford, Macedon and Trentham.
