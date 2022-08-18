@@ -1,0 +1,101 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Wellington, New Zealand
+contents:
+  title: Wellington, New Zealand
+  camera: iPhone 13 Pro Max 
+  date: Late August 2022 
+  description: A quick unplanned trip to finish off New Zealand, with gale force winds and unstoppable rains.
+  entries:
+    IMG_4635_WellingtonSign.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4635_WellingtonSign.jpeg
+      caption: IMG_4635_WellingtonSign.jpeg
+      subcaption: TestSubcaption
+    IMG_4598_Airport.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4598_Airport.jpeg
+      caption: IMG_4598_Airport.jpeg
+      subcaption: TestSubcaption
+    IMG_4667_LionAndBeehive.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4667_LionAndBeehive.jpeg
+      caption: IMG_4667_LionAndBeehive.jpeg
+      subcaption: TestSubcaption
+    IMG_4670_GovernmentBuilding.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4670_GovernmentBuilding.jpeg
+      caption: IMG_4670_GovernmentBuilding.jpeg
+      subcaption: TestSubcaption
+    IMG_4661_Court.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4661_Court.jpeg
+      caption: IMG_4661_Court.jpeg
+      subcaption: TestSubcaption
+    IMG_4671_Statue.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4671_Statue.jpeg
+      caption: IMG_4671_Statue.jpeg
+      subcaption: TestSubcaption
+    IMG_4614_Street.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4614_Street.jpeg
+      caption: IMG_4614_Street.jpeg
+      subcaption: TestSubcaption
+    IMG_4618_Cuba.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4618_Cuba.jpeg
+      caption: IMG_4618_Cuba.jpeg
+      subcaption: TestSubcaption
+    IMG_4620_Cuba.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4620_Cuba.jpeg
+      caption: IMG_4620_Cuba.jpeg
+      subcaption: TestSubcaption
+    IMG_4621_PedestrianCrossing.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4621_PedestrianCrossing.jpeg
+      caption: IMG_4621_PedestrianCrossing.jpeg
+      subcaption: TestSubcaption
+    IMG_4623_Street.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4623_Street.jpeg
+      caption: IMG_4623_Street.jpeg
+      subcaption: TestSubcaption
+    IMG_4628_Crane.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4628_Crane.jpeg
+      caption: IMG_4628_Crane.jpeg
+      subcaption: TestSubcaption
+    IMG_4629_Cityscape.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4629_Cityscape.jpeg
+      caption: IMG_4629_Cityscape.jpeg
+      subcaption: TestSubcaption
+    IMG_4643_SignAndCity.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4643_SignAndCity.jpeg
+      caption: IMG_4643_SignAndCity.jpeg
+      subcaption: TestSubcaption
+    IMG_4646_WhairepoLagoon.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4646_WhairepoLagoon.jpeg
+      caption: IMG_4646_WhairepoLagoon.jpeg
+      subcaption: TestSubcaption
+    IMG_4654_Sculpture.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4654_Sculpture.jpeg
+      caption: IMG_4654_Sculpture.jpeg
+      subcaption: TestSubcaption
+    IMG_4659_PWC.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4659_PWC.jpeg
+      caption: IMG_4659_PWC.jpeg
+      subcaption: TestSubcaption
+    IMG_4664_RememberanceStatue.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/wellington/IMG_4664_RememberanceStatue.jpeg
+      caption: IMG_4664_RememberanceStatue.jpeg
+      subcaption: TestSubcaption
+
