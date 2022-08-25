@@ -5,7 +5,7 @@ categories:
         UNSW: contents/unsw.yaml
         Leaving for London: contents/leavingforlondon.yaml
         Quarantine: contents/quarantine.yaml
-        SaaP: contents/saap.yaml
+        # SaaP: contents/saap.yaml
         Sydney in Lockdown: contents/sydneyinlockdown.yaml
     Travel:
         Oxford: contents/oxford.yaml
