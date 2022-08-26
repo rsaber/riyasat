@@ -14,21 +14,21 @@
 </head>
 
 <body>
-    {% from "header.jinja" import header %}
-    {% from "title.jinja" import title %}
-    {% from "footer.jinja" import footer %}
+    {% from "components/header.jinja" import header %}
+    {% from "components/title.jinja" import title %}
+    {% from "components/footer.jinja" import footer %}
 
     <div class="container">
 
       {{ header(ANVIL_CURRENT_FILENAME, ANVIL_FILENAME_MAPPINGS, navbar.title, navbar.subtitle, navbar.categories) }}
 
       {% if type == "photojournal" %}
-          {% from "photojournal.jinja" import photojournal %}
+          {% from "article_types/photojournal.jinja" import photojournal %}
 
           {{ title(contents.title, (contents.entries|length) ~ " Photos", contents.camera, contents.date, contents.description) }}
           {{ photojournal(contents.entries)}}
       {% elif type == "article" %}
-          {% from "article.jinja" import article %}
+          {% from "article_types/article.jinja" import article %}
         
           {% if contents.title is defined %}
           {{ title(contents.title, "", "", contents.date, "") }}
