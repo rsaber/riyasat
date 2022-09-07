@@ -1,0 +1,36 @@
+template: main.jinja
+
+navbar: !include header.yaml
+
+title: Tenet - An Explanation of it's Mechanics 
+type: article
+
+contents:
+    title: Tenet - An Explanation of it's Mechanics 
+    markdown: |
+        Christopher Nolan's 2020 Sci-fi masterpiece Tenet holds a very special place in my heart. Being a die-hard Nolan fan, one of the many characteristics of his films I particularly enjoy is that he doesn't feel the need to dilute complexity with incessant explanation. For Tenet however, Nolan might've expected a little too much of me - 2 years in and I'm still unsure of some of the mechanics of the Tenet universe. But of the ones I am sure of, this article shall provide a manual into understanding it's nature.
+
+        # Fatalism? 
+        
+        A common philoshopical dilemma that you at home can ponder upon is, are future events the cause of the actions taken today? Or were they always set in stone, only for us to play forward through. Believing in fate, believing in fatalism, results in the uncomfortable notion that we don't have free will. Regardless of what we were to do today, nothing is going to stop the sun rising the next. In fact, if you believe in some all-knowing, all-powerful diety - with full knowledge of all future events - the only natural conclusion is that our free will is an illusion. What was meant to happen will always happen. 
+
+    On the other hand, a deterministic philosophical approach to life explains that `Event B` would not have occured without `Action A`. If you were to have performed `Action A'`, then `Event B'` would follow. Perhaps even an parallel world would arise from such a decision being made. 
+
+    Undestanding Tenet requires understanding both views. The mechanics showcased in the film demonstrate fate. The Protagonist wouldn't have survived the Opera siege were it not for Future Neil, but Neil wouldn't have survived long enough to go back in time and save the Protagonist were it not for Protagonist to save Neil. It seems pretty clear cut at this point - with one subtle flaw. If you knew that with the sole fact of you existing today would mean that you had not died prior in some near-death experience (Event A), why bother setting off a chain reaction of events that result in Event A occuring? You know you've survived, if it'll happen, it'll happen. This generalised Grandfather Paradox is resolved by providing the characters with some motivation to pursue completing the events they know they have already experienced, for fear that the world they live in is not actually one determined by fate, but rather truly deterministic. More simply put: if someone tried to kill my grandfather before he was born, for fear of me not existing, I will prevent that happening, which is exactly how my grandfather survived.
+
+      # Inversion Principles
+      
+      We're introduced very early on to the inversion, the idea that an object has had its entropy reverted. The way we perceive time, we expect Cause to come before Effect. For an inverted object, it's perspective would show the same, but from ours it would be the opposite. For now, imagine our reality is a reel of film, each moment we experience is a frame in that reel.
+
+    scrolling-gif-anim:
+      None
+
+    markdown: |
+      We can scroll back and forth to give the illusion of movement, but there is none. We only experience single still frames at a time. Let's see what it would look like if an inverted person were to walk in our reality.
+
+    scrolling-gif-anim:
+      None
+
+    markdown: |
+
+
