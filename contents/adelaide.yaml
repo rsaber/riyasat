@@ -1,0 +1,96 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Adelaide, South Australia
+contents:
+  title: Adelaide, South Australia
+  camera: iPhone 13 Pro Max 
+  date: December 2022 
+  description: Like Canberra but emptier.
+  entries:
+    IMG_5821CloudyCity.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5821CloudyCity.jpeg
+      caption: IMG_5821CloudyCity.jpeg
+      subcaption: TestSubcaption
+    IMG_5839City2.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5839City2.jpeg
+      caption: IMG_5839City2.jpeg
+      subcaption: TestSubcaption
+    IMG_5843HerMajestyTheatre.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5843HerMajestyTheatre.jpeg
+      caption: IMG_5843HerMajestyTheatre.jpeg
+      subcaption: TestSubcaption
+    IMG_5851Chinatown.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5851Chinatown.jpeg
+      caption: IMG_5851Chinatown.jpeg
+      subcaption: TestSubcaption
+    IMG_5856FederalHall.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5856FederalHall.jpeg
+      caption: IMG_5856FederalHall.jpeg
+      subcaption: TestSubcaption
+    IMG_5859VicSquare.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5859VicSquare.jpeg
+      caption: IMG_5859VicSquare.jpeg
+      subcaption: TestSubcaption
+    IMG_5861VictoriaStatue.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5861VictoriaStatue.jpeg
+      caption: IMG_5861VictoriaStatue.jpeg
+      subcaption: TestSubcaption
+    IMG_5886Markets.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5886Markets.jpeg
+      caption: IMG_5886Markets.jpeg
+      subcaption: TestSubcaption
+    IMG_5890FirstNations.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5890FirstNations.jpeg
+      caption: IMG_5890FirstNations.jpeg
+      subcaption: TestSubcaption
+    IMG_5902WhitemoreSquare.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_5902WhitemoreSquare.jpeg
+      caption: IMG_5902WhitemoreSquare.jpeg
+      subcaption: TestSubcaption
+    IMG_6003Tram.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_6003Tram.jpeg
+      caption: IMG_6003Tram.jpeg
+      subcaption: TestSubcaption
+    IMG_6032Memorial.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_6032Memorial.jpeg
+      caption: IMG_6032Memorial.jpeg
+      subcaption: TestSubcaption
+    IMG_6037NorthAdelaide.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_6037NorthAdelaide.jpeg
+      caption: IMG_6037NorthAdelaide.jpeg
+      subcaption: TestSubcaption
+    IMG_6050Memorial.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_6050Memorial.jpeg
+      caption: IMG_6050Memorial.jpeg
+      subcaption: TestSubcaption
+    IMG_6058Gardens.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_6058Gardens.jpeg
+      caption: IMG_6058Gardens.jpeg
+      subcaption: TestSubcaption
+    IMG_6060GardensFountain.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_6060GardensFountain.jpeg
+      caption: IMG_6060GardensFountain.jpeg
+      subcaption: TestSubcaption
+    IMG_6073TramStop.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide/IMG_6073TramStop.jpeg
+      caption: IMG_6073TramStop.jpeg
+      subcaption: TestSubcaption
+

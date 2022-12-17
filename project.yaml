@@ -24,6 +24,8 @@ buildlist:
   - contents/southland.yaml
   - contents/christchurch.yaml
   - contents/wellington.yaml
+  - contents/cairns.yaml
+  - contents/adelaide.yaml
 
 copy:
  - css

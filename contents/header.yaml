@@ -26,6 +26,8 @@ categories:
         Southland: contents/southland.yaml
         Christchurch: contents/christchurch.yaml
         Wellington: contents/wellington.yaml
+        Cairns: contents/cairns.yaml
+        Adelaide: contents/adelaide.yaml
     Projects:
         Anvil: https://github.com/rsaber/anvil 
         Password Generator: http://pw.riyas.at

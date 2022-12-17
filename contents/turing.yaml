@@ -1,0 +1,21 @@
+template: main.jinja
+
+navbar: !include header.yaml
+
+title: Turing Completeness using Magic the Gathering 
+type: article
+
+contents:
+    title: Turing Completeness using Magic the Gathering 
+    markdown: |
+      
+      If I were to give you a language, can you be absolutely certain that, knowing all the possible grammer, syntax and vocabulary, that you could explain how to cook an authentic carbonara? What about building a car? Or the intricate details in folding a fitted sheet? Turing completeness is a language property that, if a language is be Turing complete, it can
+        - perform arithmetic 
+        - store and manipulate state
+        - perform conditional operations (if x then y)
+        - repeat instructions
+
+      Technically speaking, a langauge is Turing complete if it can compute what a "Turing Machine" could compute. A Turing Machine is an entirely hypothethical machine, consisting of an infinite tape, a head upon the tape could read and write upon, and a set of rules that allow the head to move and manupulate the tape. Beyond technical definitions, if a language is turing complete, it can solve any computational problem (given enough time and memory). 
+    Proving a language has these properties is sometimes easier said than done. For procedural languages like C++ or Python, the structure, syntax and grammar of the language is analagous to a Turing Machine. You can make state, you can manipulate state, you can loop, you can 'if' statement. 
+
+    # What's MTG got to do with it?

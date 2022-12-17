@@ -1,0 +1,105 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Cairns, Far North Queensland
+contents:
+  title: Cairns, Far North Queensland
+  camera: iPhone 13 Pro Max 
+  date: Late November 2022 
+  description: Great Barrier Reef and more in Far North Queensland
+  entries:
+    IMG_5414_Helicopter.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5414_Helicopter.jpeg
+      caption: IMG_5414_Helicopter.jpeg
+      subcaption: TestSubcaption
+    IMG_5426SaxonReef.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5426SaxonReef.jpeg
+      caption: IMG_5426SaxonReef.jpeg
+      subcaption: TestSubcaption
+    IMG_5525Rainforest.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5525Rainforest.jpeg
+      caption: IMG_5525Rainforest.jpeg
+      subcaption: TestSubcaption
+    IMG_5547Cableway.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5547Cableway.jpeg
+      caption: IMG_5547Cableway.jpeg
+      subcaption: TestSubcaption
+    IMG_5554KurandaStation.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5554KurandaStation.jpeg
+      caption: IMG_5554KurandaStation.jpeg
+      subcaption: TestSubcaption
+    IMG_5555KurandaPlatform.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5555KurandaPlatform.jpeg
+      caption: IMG_5555KurandaPlatform.jpeg
+      subcaption: TestSubcaption
+    IMG_5557.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5557.jpeg
+      caption: IMG_5557.jpeg
+      subcaption: TestSubcaption
+    IMG_5585KurandaWalkway.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5585KurandaWalkway.jpeg
+      caption: IMG_5585KurandaWalkway.jpeg
+      subcaption: TestSubcaption
+    IMG_5586KurandaMarket.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5586KurandaMarket.jpeg
+      caption: IMG_5586KurandaMarket.jpeg
+      subcaption: TestSubcaption
+    IMG_5591KurandaSt.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5591KurandaSt.jpeg
+      caption: IMG_5591KurandaSt.jpeg
+      subcaption: TestSubcaption
+    IMG_5592SkyrailKuranda.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5592SkyrailKuranda.jpeg
+      caption: IMG_5592SkyrailKuranda.jpeg
+      subcaption: TestSubcaption
+    IMG_5612Ferris.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5612Ferris.jpeg
+      caption: IMG_5612Ferris.jpeg
+      subcaption: TestSubcaption
+    IMG_5615Cannon.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5615Cannon.jpeg
+      caption: IMG_5615Cannon.jpeg
+      subcaption: TestSubcaption
+    IMG_5648Fitzroy.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5648Fitzroy.jpeg
+      caption: IMG_5648Fitzroy.jpeg
+      subcaption: TestSubcaption
+    IMG_5654PostOffice.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5654PostOffice.jpeg
+      caption: IMG_5654PostOffice.jpeg
+      subcaption: TestSubcaption
+    IMG_5660WarMemorial.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5660WarMemorial.jpeg
+      caption: IMG_5660WarMemorial.jpeg
+      subcaption: TestSubcaption
+    IMG_5673Mason.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5673Mason.jpeg
+      caption: IMG_5673Mason.jpeg
+      subcaption: TestSubcaption
+    IMG_5674Church.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5674Church.jpeg
+      caption: IMG_5674Church.jpeg
+      subcaption: TestSubcaption
+    IMG_5677CityLibrary.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/cairns/IMG_5677CityLibrary.jpeg
+      caption: IMG_5677CityLibrary.jpeg
+      subcaption: TestSubcaption
