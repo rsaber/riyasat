@@ -1,0 +1,61 @@
+template: main.jinja
+navbar: !include header.yaml
+type: photojournal
+title: Adelaide Hills, South Australia 
+contents:
+  title: Adelaide Hills, South Australia 
+  camera: iPhone 13 Pro Max 
+  date: December 2022 
+  description: A short bus trip to Hanhdorf and the rest of Adelaide Hills 
+  entries:
+    IMG_5936.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5936.jpeg
+      caption: IMG_5936.jpeg
+      subcaption: TestSubcaption
+    IMG_5938.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5938.jpeg
+      caption: IMG_5938.jpeg
+      subcaption: TestSubcaption
+    IMG_5939.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5939.jpeg
+      caption: IMG_5939.jpeg
+      subcaption: TestSubcaption
+    IMG_5944.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5944.jpeg
+      caption: IMG_5944.jpeg
+      subcaption: TestSubcaption
+    IMG_5946.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5946.jpeg
+      caption: IMG_5946.jpeg
+      subcaption: TestSubcaption
+    IMG_5952.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5952.jpeg
+      caption: IMG_5952.jpeg
+      subcaption: TestSubcaption
+    IMG_5956.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5956.jpeg
+      caption: IMG_5956.jpeg
+      subcaption: TestSubcaption
+    IMG_5966.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5966.jpeg
+      caption: IMG_5966.jpeg
+      subcaption: TestSubcaption
+    IMG_5967.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5967.jpeg
+      caption: IMG_5967.jpeg
+      subcaption: TestSubcaption
+    IMG_5973.jpeg:
+      type: image
+      link: https://lens-img-alpha.netlify.app/adelaide_hills/IMG_5973.jpeg
+      caption: IMG_5973.jpeg
+      subcaption: TestSubcaption
+

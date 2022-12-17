@@ -26,6 +26,7 @@ buildlist:
   - contents/wellington.yaml
   - contents/cairns.yaml
   - contents/adelaide.yaml
+  - contents/adelaide_hills.yaml
 
 copy:
  - css
