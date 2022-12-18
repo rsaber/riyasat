@@ -16,7 +16,7 @@ contents:
 
     On the other hand, a deterministic philosophical approach to life explains that `Event B` would not have occured without `Action A`. If you were to have performed `Action A'`, then `Event B'` would follow. Perhaps even an parallel world would arise from such a decision being made. 
 
-    Undestanding Tenet requires understanding both views. The mechanics showcased in the film demonstrate fate. The Protagonist wouldn't have survived the Opera siege were it not for Future Neil, but Neil wouldn't have survived long enough to go back in time and save the Protagonist were it not for Protagonist to save Neil. It seems pretty clear cut at this point - with one subtle flaw. If you knew that with the sole fact of you existing today would mean that you had not died prior in some near-death experience (Event A), why bother setting off a chain reaction of events that result in Event A occuring? You know you've survived, if it'll happen, it'll happen. This generalised Grandfather Paradox is resolved by providing the characters with some motivation to pursue completing the events they know they have already experienced, for fear that the world they live in is not actually one determined by fate, but rather truly deterministic. More simply put: if someone tried to kill my grandfather before he was born, for fear of me not existing, I will prevent that happening, which is exactly how my grandfather survived.
+    Understanding Tenet requires understanding both views. The mechanics showcased in the film demonstrate fate. The Protagonist wouldn't have survived the Opera siege were it not for Future Neil, but Neil wouldn't have survived long enough to go back in time and save the Protagonist were it not for Protagonist to save Neil. It seems pretty clear cut at this point - with one subtle flaw. If you knew that with the sole fact of you existing today would mean that you had not died prior in some near-death experience (Event A), why bother setting off a chain reaction of events that result in Event A occuring? You know you've survived, if it'll happen, it'll happen. This generalised Grandfather Paradox is resolved by providing the characters with some motivation to pursue completing the events they know they have already experienced, for fear that the world they live in is not actually one determined by fate, but rather truly deterministic. More simply put: if someone tried to kill my grandfather before he was born, for fear of me not existing, I will prevent that happening, which is exactly how my grandfather survived.
 
       # Inversion Principles
       
@@ -26,11 +26,19 @@ contents:
       None
 
     markdown: |
-      We can scroll back and forth to give the illusion of movement, but there is none. We only experience single still frames at a time. Let's see what it would look like if an inverted person were to walk in our reality.
+      We can scroll back and forth to give the illusion of movement, but there is none. We only experience single still frame at a time. Let's see what it would look like if an inverted person were to walk in our reality.
 
     scrolling-gif-anim:
       None
 
     markdown: |
+      It's exactly the same! From their perspective, they are moving forward in the world yet our world is moving backward. There is no real definition of forward or backward. Let's take a look at an object at the point of its inversion.
+
+    scrolling-gif-anim:
+      None
+
+    markdown: |
+      As soon as it is inverted, it will cease to exist forward in time. The inverted version will travel back in time. Taking a fatalist approach, we can see that even before we have inverted our object, there will exist two versions of it at the same time, one moving forward and itself inverted moving back. 
+
 
 
