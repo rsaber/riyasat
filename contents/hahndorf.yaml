@@ -1,9 +1,9 @@
 template: main.jinja
 navbar: !include header.yaml
 type: photojournal
-title: Adelaide Hills, South Australia 
+title: Hahndorf, South Australia 
 contents:
-  title: Adelaide Hills, South Australia 
+  title: Hahndorf, South Australia 
   camera: iPhone 13 Pro Max 
   date: December 2022 
   description: A short bus trip to Hanhdorf and the rest of Adelaide Hills 
